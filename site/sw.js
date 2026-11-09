@@ -1,5 +1,5 @@
 const PREFIX='tokyo-trip-2026-';
-const CACHE=PREFIX+'9d52c01826b9';
+const CACHE=PREFIX+'715bce2607b7';
 const ROOT=new URL('./',self.location.href);
 const INDEX=new URL('index.html',ROOT).href;
 const ASSETS=['index.html','manifest.webmanifest','icon.svg'].map(p=>new URL(p,ROOT).href);
