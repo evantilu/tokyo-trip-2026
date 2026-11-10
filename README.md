@@ -1,6 +1,6 @@
-# 東京四晚旅行攻略
+# 關東跟團與東京自由行攻略
 
-手機優先的靜態旅行網站，含每日行程、真實離線底圖、導航、本機清單與筆記。
+手機優先的靜態旅行網站，含11/12–17跟團重點（旅遊、建築與房地產觀察）、11/17–21自由行、真實離線底圖、導航、本機清單與筆記。
 
 ## 部署
 
@@ -14,8 +14,14 @@
 
 ## 更新
 
-修改 `site/index.html` 後同步更新 `site/sw.js` 的CACHE版本，確保離線版本更新。
+修改 `site/index.html`、`site/tour.js` 或 `site/tour.css` 後同步更新 `site/sw.js` 的CACHE版本，確保離線版本更新。
 
 ## 地圖來源
 
 底圖：日本國土地理院淡色地圖（地理院タイル），圖磚內嵌。https://maps.gsi.go.jp/development/ichiran.html#pale
+
+## 檢查
+
+`node tests/guide.cjs`：跟團／自由行切換、日期、離團銜接、地圖、列印與筆記保留。
+
+`node tests/offline.cjs`：離線資源、快取更新與外部導航。

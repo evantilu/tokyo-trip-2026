@@ -1,8 +1,8 @@
 const PREFIX='tokyo-trip-2026-';
-const CACHE=PREFIX+'715bce2607b7';
+const CACHE=PREFIX+'c07bc4028a25';
 const ROOT=new URL('./',self.location.href);
 const INDEX=new URL('index.html',ROOT).href;
-const ASSETS=['index.html','manifest.webmanifest','icon.svg'].map(p=>new URL(p,ROOT).href);
+const ASSETS=['index.html','tour.js','tour.css','manifest.webmanifest','icon.svg'].map(p=>new URL(p,ROOT).href);
 self.addEventListener('install',event=>event.waitUntil((async()=>{const cache=await caches.open(CACHE);await cache.addAll(ASSETS);await self.skipWaiting();})()));
 self.addEventListener('activate',event=>event.waitUntil((async()=>{for(const k of await caches.keys())if(k.startsWith(PREFIX)&&k!==CACHE)await caches.delete(k);await self.clients.claim();})()));
 self.addEventListener('fetch',event=>{
