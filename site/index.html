@@ -12,7 +12,7 @@ html{scroll-padding-top:65px}body{font-size:16px;padding-bottom:calc(82px + env(
 }
 @media print{.phone-tools,.phone-dates,.map-expand,.open-help,.plan-controls{display:none!important}.map-full{position:static!important;inset:auto;padding:0}.map-full #map{height:400px}}
 
-</style></head>
+</style><link rel="stylesheet" href="./vendor/leaflet.css"><link rel="stylesheet" href="./explorer.css"></head>
 <body><header><small>TOKYO & KANTO FIELD GUIDE · 12—21 NOV 2026</small><h1>關東跟團，東京慢走。</h1><p>11/12–17 跟團看亮點｜11/17–21 東京自由行｜旅遊・建築・街區觀察</p><div class="row"><span class="pill">住宿已訂・23㎡雙床</span><span class="pill">飯店已回覆可代收與保管至入住</span><span class="pill">更新 2026/11/10</span></div></header>
 <nav aria-label="攻略章節"><a href="#overview">自由行總覽</a><a href="#mapsection">自由行地圖</a><a href="#guide">自由行攻略</a><a href="#breakfast">早餐早午餐</a><a href="#hotel">住宿與收件</a><a href="#transport">交通與購車</a><a href="#checklist">出發清單</a></nav>
 <main>
@@ -162,11 +162,11 @@ window.addEventListener('resize',()=>{fit(mapAll?Object.keys(points):current().r
 
 render();$('saveStatus').textContent=storageOK?'日期選擇、清單與筆記會儲存在本瀏覽器。':'此瀏覽器不允許本機儲存，請匯出保留筆記。';
 
-</script><script src="./tour.js"></script><script>
+</script><script src="./tour.js"></script><script src="./vendor/leaflet.js"></script><script src="./shops-data.js"></script><script src="./tour-geo.js"></script><script src="./explorer.js"></script><script>
 (function(){
  const status=document.getElementById('offlineStatus');
  if(!('serviceWorker' in navigator)||location.protocol!=='https:'){status.textContent='此開啟方式未啟用離線快取；連網功能仍可使用。';return;}
- navigator.serviceWorker.register('./sw.js').then(()=>navigator.serviceWorker.ready).then(()=>{status.textContent=navigator.onLine?'已可離線使用：行程、底圖與筆記已保留在此裝置。':'目前離線：行程與底圖可用，外部導航需網路。';}).catch(()=>{status.textContent='離線快取尚未完成；請保持連網並重新開啟。';});
+ navigator.serviceWorker.register('./sw.js').then(()=>navigator.serviceWorker.ready).then(()=>{status.textContent=navigator.onLine?'已可離線使用：行程、車店、都心預載底圖與筆記已保留。其他地區底圖需連網或先前快取。':'目前離線：行程、車店及已快取底圖可用，其他區域與導航需網路。';}).catch(()=>{status.textContent='離線快取尚未完成；請保持連網並重新開啟。';});
  window.addEventListener('offline',()=>{status.textContent='目前離線；已快取的行程與底圖可繼續使用。';});
  window.addEventListener('online',()=>{status.textContent='目前已連網；導航與外部連結可使用。';});
 })();

@@ -25,3 +25,13 @@
 `node tests/guide.cjs`：跟團／自由行切換、日期、離團銜接、地圖、列印與筆記保留。
 
 `node tests/offline.cjs`：離線資源、快取更新與外部導航。
+
+## 整合互動地圖
+
+`explorer.js`/`explorer.css` 提供關東全程地圖、14家車店、日期公休提示、5公里直線附近搜尋、候選車連結及本機標記備份。未預約的建議不視為確認行程。
+
+`shops-data.js` 由2026/11/10車店調查整理，位置使用Geolonia japanese-addresses公開全國資料在本機比對町丁目代表點，並非店門口。來源：https://github.com/geolonia/japanese-addresses （CC BY 4.0）。景點座標與各自來源見`tour-geo.js`，未指定小湊鐵道上下車站不放定位；汐留僅區域代表點。Google Maps搜尋地址確認入口。
+
+本機Leaflet 1.9.4（BSD-2-Clause，見vendor/LICENSE）呈現國土地理院圖磚；離線預載僅原有都心20張z13圖磚，其他區域圖磚需先連網，Service Worker最多保留250張。標記/日期/店家筆記使用獨立儲存鍵，不覆寫原有行程筆記，可JSON匯入匯出。沒有自動公開上傳。
+
+手機390×844實測地圖、詳細卡、全畫面與標記重開保留。
