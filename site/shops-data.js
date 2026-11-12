@@ -1,1 +1,1311 @@
-window.TRIP_SHOPS={"asof": "2026-11-10 Asia/Taipei", "hotel": "Toshi Center Hotel／東京都千代田区平河町2-4-1", "shops": [{"rank": 1, "name": "Y’s Road 池袋チャーリー", "kind": "新車／品牌出清；第一站", "why": "最符合挖寶目的：店家定位明確是品牌Outlet與短交期完成車，不只展示當季原價車。永田町有樂町線可往池袋。先看成車及可立即交付尺寸，再看零件，避免逛散。", "candidates": "無已確認在此分店的保留個車；ORCA M30（JP-Claude-20261106-009）屬Y’s體系，不能當作池袋現貨。", "address": "東京都豊島区東池袋1-43-6 D-BOXビル2F", "access": "池袋駅；從飯店規劃預留30–45分", "phone": "03-3983-8694", "hours": "10:00–20:00；無固定休", "open4": "17二○／18三○／19四○／20五○", "tax": "官方門市資料列免稅對應店；2026/11退款制承辦、成車適用與費用仍須此店確認。", "packing": "東京此店航空打包、紙箱、尺寸、費用及完成日未找到公開承諾；不能套大阪分店舊文。 部分池袋限定Outlet不接受跨店移動，亦不受理電話留車；詢問現貨與留車是兩回事。", "visit": "11/18 10:00首站，約60–75分；要求查看未上網、展示車、舊年式特價。11:30左右轉新宿。", "minutes": "60–75分", "official": "https://portal.ysroad.co.jp/shop/kanto/charley/", "extra": [["Outlet定位", "https://ysroad.co.jp/charley/"], ["網站／營業現況", "https://d1bmo0smkkt8hz.cloudfront.net/"], ["跨店與價格限制", "https://online.ysroad.co.jp/shop/pages/faq.aspx"], ["池袋限定Outlet限制（搜尋索引，頁面或維護）", "https://ysroad.co.jp/charley/page/90?IncludeBlogs=0&limit=20&s=GARMIN&x=0&y=0_device%3Dpc"]], "ll": [35.731372, 139.715298], "positionNote": "町丁目代表點（非店門口）；同街區店可能共用點位，入口請用Google Maps", "positionSource": "https://github.com/geolonia/japanese-addresses", "bikes": []}, {"rank": 2, "name": "Y’s Road 新宿本館", "kind": "新車／大型綜合；第二站", "why": "大型多品牌完成車店，官方稱常設展示500台以上，適合一次問清尺寸、舊車出清與納車時程。可補足網路未列或門市限定價；規模不等於一定比台灣便宜。", "candidates": "ORCA M30（JP-Claude-20261106-009）為體系候選，實際庫存分店待核；其餘已封存Y’s個車不因此復活。", "address": "東京都新宿区新宿2-19-1 BYGSビルB1F", "access": "新宿三丁目C8；飯店規劃預留25–40分", "phone": "03-3350-1288", "hours": "平日12:00–20:00；週末11:00–19:00；無固定休", "open4": "17○／18○／19○／20○", "tax": "官方列免稅對應、可英語；新制退款流程／手續費及特價車適用仍問店。", "packing": "航空包裝未核；先確認可提供箱體、拆裝程度與11/20前交付，不把有維修技師當作承諾。", "visit": "11/18 12:00第二站，約75–90分；帶台灣比較價，詢問門市現金價／特價能否併退款；當天選出至多2台。", "minutes": "75–90分", "official": "https://ysroad.co.jp/shinjuku/shop", "extra": [["免稅／營業", "https://portal.ysroad.co.jp/shop/kanto/shinjuku/"], ["網站現況", "https://d1bmo0smkkt8hz.cloudfront.net/"], ["價格可能與網路不同", "https://online.ysroad.co.jp/shop/pages/faq.aspx"]], "ll": [35.690064, 139.708387], "positionNote": "町丁目代表點（非店門口）；同街區店可能共用點位，入口請用Google Maps", "positionSource": "https://github.com/geolonia/japanese-addresses", "bikes": []}, {"rank": 3, "name": "Buychari AKIBA", "kind": "中古／一次看多台既有候選", "why": "目前保留個車集中度最好：可同場看SL7 Pro、Focus及S5參考。和御徒町兩間Y’s順路，適合以實車傷況、幾何及配件作決定。", "candidates": "JP-Claude-20261102-016 Tarmac SL7 Pro 1x 54；-012 Focus Izalco Max9 M；-019 Cervélo S5 54（僅參考）。依11/10 Claude，非替你留車。", "address": "東京都千代田区神田練塀町14-4外", "access": "秋葉原電氣街口步行約3分；飯店規劃預留30–45分", "phone": "03-5244-4080", "hours": "11:00–20:00；原則全年營業（設施休館除外）", "open4": "17○／18○／19○／20○", "tax": "此分店免稅未核；不能推論所有Buychari都有，也不能因秋葉原多免稅店就套用。", "packing": "國內配送有紙箱運送，不等於航空包裝；官方不接受為縮尺寸而拆解的配送要求。另問紙箱取得／航空打包。", "visit": "11/20與上野成一條線，約60–90分。若只剩半天，優先本店＋Y’s上野本館；最晚取車時段須事先約定。", "minutes": "60–90分", "official": "https://buychari.com/pages/shop", "extra": [["配送限制", "https://buychari.com/pages/shipping-charges"]], "ll": [35.70071, 139.774037], "positionNote": "町丁目代表點（非店門口）；同街區店可能共用點位，入口請用Google Maps", "positionSource": "https://github.com/geolonia/japanese-addresses", "bikes": [{"name": "JP-Claude-20261102-016SPECIALIZED TARMAC SL7 PRO SRAM FORCE ETAP AXS 1X 2021年モデル尺寸 54 (ST 500mm / TT 540mm(ホリゾンタル換算); 適応身長 170-180cm)", "price": "含稅 ¥396,000 / NT$83,398退稅條件試算 ¥360,000 / NT$75,816", "url": "https://buychari.com/products/rc_itnw24snkewo_m3cz"}, {"name": "JP-Claude-20261102-012FOCUS IZALCO MAX 9 ULTEGRA Di2 2021年モデル尺寸 M (ST 510mm / TT 551mm(ホリゾンタル換算); 適応身長 175-180cm)", "price": "含稅 ¥420,000 / NT$88,452退稅條件試算 ¥381,818 / NT$80,411", "url": "https://buychari.com/products/rc_itnnqk87yftw_kucs"}, {"name": "JP-Claude-20261102-019CERVELO S5 DISC 2020年モデル尺寸 54 (ST 480mm / TT 548mm(ホリゾンタル換算); 適応身長 175-180cm)", "price": "含稅 ¥900,000 / NT$189,540退稅條件試算 ¥818,181 / NT$172,309", "url": "https://buychari.com/products/rc_it4cdz6xgdki_m63x"}]}, {"rank": 4, "name": "BICI AMORE 南麻布", "kind": "中古／預約看指定車；有條件必看", "why": "有保留XR3，也可先問能否將立川Emonda轉來，減少遠征。倉庫保管且來店預約，並不是隨到可看完所有全國庫存的展場。", "candidates": "JP-Claude-20261102-068 Bianchi XR3 55（lua800_azabu）；JP-Claude-20261110-001 Emonda54在立川，僅可申請轉店，未安排／未確認到貨。舊Domane已封存，不列主推。", "address": "東京都港区南麻布4-13-7 シルク南麻布1F", "access": "廣尾站步行約7分；飯店規劃預留35–55分", "phone": "03-6455-7819", "hours": "11:00–19:00；週三、四休；來店需預約", "open4": "17○須約／18休／19休／20○須約", "tax": "未確認南麻布整車免稅。2024公告僅車衣店先啟用，未找到已擴及本店的有效公告。", "packing": "官方FAQ確認可到店取車；不接受試騎／議價／留車。轉店成車費用可見其他商品頁¥8,000，但本車、時程及航空包裝另核。", "visit": "若17離團後時間充足且已約可先看；否則20預約，需取代部分谷中／上野行程。不要等20第一次問轉店。", "minutes": "45–60分；取車另留60分", "official": "https://web-store.biciamore.jp/pages/shops", "extra": [["店家詳情", "https://biciamore.jp/shop_information/南麻布店/"], ["取車／試騎／議價", "https://web-store.biciamore.jp/pages/faq"], ["免稅舊公告範圍", "https://biciamore.jp/shop_category/サイクルジャージ店/page/2/"]], "ll": [35.648895, 139.725718], "positionNote": "町丁目代表點（非店門口）；同街區店可能共用點位，入口請用Google Maps", "positionSource": "https://github.com/geolonia/japanese-addresses", "bikes": [{"name": "JP-Claude-20261102-068BIANCHI OLTRE XR3 DISC 2021（105）東京尺寸 55 (ST 495 / TT 550 / HT 145; 適応身長 177-183cm)", "price": "含稅 ¥231,000 / NT$48,649退稅條件試算 ¥209,999 / NT$44,226", "url": "https://web-store.biciamore.jp/products/lua800_azabu"}]}, {"rank": 5, "name": "Firstbikes International 八王子", "kind": "新車／客製完成車；成交條件成立才遠征", "why": "有你真正感興趣的Orca Aero，具體交易價值可能高於泛逛。若實車照片、車況和接近¥579,080的報價獲確認，升為第一優先；若仍¥757,263且無明顯優勢，不花半天盲逛。", "candidates": "JP-Claude-20261102-042 ORCA AERO M20iTEAM／53。¥579,080為過期活動價，¥757,263為11/6在庫表價，未確認新的議價結果。", "address": "東京都八王子市散田町5-11-3 フローラル散田A号室", "access": "西八王子／めじろ台；由飯店規劃單程90–120分含轉乘與末段步行", "phone": "042-673-3806", "hours": "平日12:00–19:00；週末13:00–19:00；週三休，活動可變更", "open4": "17可先問／18休／19可先問／20可先問", "tax": "未確認免稅登錄與承辦；不能以有海外客或能配送推論可退稅。", "packing": "官網國內整車配送約¥10,000–20,000；有庫存約3日出貨，不是3日送達。航空箱、打包費、退款方式均未核。", "visit": "優先19（四）中午預約，與下北澤日交換；交通＋看車預留半天。20僅作已談妥後的取車，不作首次探索。", "minutes": "現場60–90分；總半天", "official": "https://firstbikes2020.com/contents/category/shop/", "extra": [["庫存", "https://firstbikes2020.com/contents/category/stock-list/"], ["配送", "https://firstbikes2020.com/contents/category/delivery/"], ["營業日曆", "https://firstbikes2020.com/contents/category/calendar/"]], "ll": [35.647977, 139.301624], "positionNote": "町丁目代表點（非店門口）；同街區店可能共用點位，入口請用Google Maps", "positionSource": "https://github.com/geolonia/japanese-addresses", "bikes": [{"name": "JP-Claude-20261102-042ORBEA ORCA AERO M20i TEAM Ultegra Di2 R8100 客製完成車尺寸 53", "price": "含稅 ¥757,263 / NT$159,480退稅條件試算 ¥688,420 / NT$144,981", "url": "https://firstbikes2020.com/contents/category/stock-list/"}]}, {"rank": 6, "name": "Y’s Road 上野本館", "kind": "新車／上野行程順路", "why": "與11/20谷中／上野自然串聯，比為一間沒有明確個車的遠店專程移動有效率。以可交付完成車和舊年式現貨為主。", "candidates": "沒有確認在此分店的保留個車；請用車款與尺寸查各店，不把線上體系庫存當此店庫存。", "address": "東京都台東区上野3-16-3 鈴木ビル1–2F", "access": "御徒町／上野廣小路／末廣町；飯店規劃預留30–45分", "phone": "03-3836-6168", "hours": "平日12:00–20:00；週末11:00–19:00；無固定休", "open4": "17○／18○／19○／20○", "tax": "官方列免稅對應店；11月新制手續與個車適用待核。", "packing": "航空打包與當日納車未公開確認；最後一天別以看完可立即帶走作前提。", "visit": "11/20 12:00；谷中上午後由上野往御徒町，再到AKIBA。先看本館，アサゾー僅有餘裕再加。", "minutes": "45–60分", "official": "https://portal.ysroad.co.jp/shop/kanto/ueno/", "extra": [["網站現況", "https://d1bmo0smkkt8hz.cloudfront.net/"], ["查庫存／價格限制", "https://online.ysroad.co.jp/shop/pages/faq.aspx"]], "ll": [35.705408, 139.773096], "positionNote": "町丁目代表點（非店門口）；同街區店可能共用點位，入口請用Google Maps", "positionSource": "https://github.com/geolonia/japanese-addresses", "bikes": []}, {"rank": 7, "name": "Cycle Paradise 東京（葛西）", "kind": "中古倉庫／新增來源；先聯絡再決定", "why": "補足Buychari、BICI以外的大型中古來源，品牌廣。官方說商品整備後陸續上網，有探索價值；但不保證未上網車願售或四天內交付。資訊頁有地址13號／15號及休假差異，先確認。", "candidates": "目前沒有已保留個車在此；先用網站篩至少2台值得看，再安排現場。", "address": "東京都江戸川区中葛西6-10-13（零售頁）／6-10-15（倉庫介紹）；同區近鄰，入口待核", "access": "葛西站；官網約步行8分；飯店規劃預留45–65分", "phone": "03-6634-8533（倉庫介紹）；cycleparadise@verygood.co.jp", "hours": "官方兩頁均12:00–18:00；一頁無固定休、一頁不定休，需先確認", "open4": "17–20均須先確認開放與實車可看，不當作保證營業", "tax": "未找到可靠免稅承辦證據；線上購車與現場退款程序均待核。", "packing": "零售頁：完成車經網路購買，可看展示；不提供修理／試騎／fitting。航空包裝、可否自取及交付天數未核。", "visit": "只在18無合適車且官網先篩中2台時，替換19半天。不要20傍晚才第一次來；距離與交易限制降低實訪排名。", "minutes": "60–90分；總半天", "official": "https://www.cypara.com/store/retail/cyparatokyo.html", "extra": [["倉庫介紹及資訊衝突", "https://www.cypara.com/blog/shop-info/tokyo-store/"], ["跨品牌線上庫存", "https://www.cypara.com/"]], "ll": [35.660109, 139.86719], "positionNote": "町丁目代表點（非店門口）；同街區店可能共用點位，入口請用Google Maps", "positionSource": "https://github.com/geolonia/japanese-addresses", "bikes": []}, {"rank": 8, "name": "Y’s Road 上野アサゾー", "kind": "高階車架／輪組；順路加看", "why": "適合問特殊塗裝、展示／舊庫存及高階組車；本次目標是完整成車，若只有車架優惠，組裝與交期會吃掉四天，故低於上野本館。", "candidates": "目前無已確認對應的保留個車；不因看到便宜車架就當成完整成車便宜。", "address": "東京都台東区上野3-19-4 KEN BUILDING1F", "access": "御徒町；與上野本館同區，步行串聯", "phone": "03-3839-7939", "hours": "平日12:00–20:00；週末11:00–19:00；無固定休", "open4": "17○／18○／19○／20○", "tax": "官方列免稅對應；仍確認特價商品與新制退款。", "packing": "航空打包與四天內客製組車均未核。", "visit": "11/20上野本館後短看；只問可於20日前交付的完整車。沒有就離開。", "minutes": "20–30分", "official": "https://portal.ysroad.co.jp/shop/kanto/asazo/", "extra": [["店家庫存／介紹", "https://ysroad.co.jp/asazo/"], ["網站現況", "https://d1bmo0smkkt8hz.cloudfront.net/"]], "ll": [35.705408, 139.773096], "positionNote": "町丁目代表點（非店門口）；同街區店可能共用點位，入口請用Google Maps", "positionSource": "https://github.com/geolonia/japanese-addresses", "bikes": []}, {"rank": 9, "name": "なるしまフレンド 神宮", "kind": "新車／專業組車與選車；順路備選", "why": "公路車專門店，官方近期有特價車資訊，值得當多品牌獨立店補充。較像選車／規格諮詢，未證明有比現有候選更甜的完成車，故不排必逛。", "candidates": "無現有保留個車；Anchor你已排除的個車不因店家促銷自動回來。", "address": "東京都渋谷区神宮前3-35-2", "access": "外苑前步行約7分；飯店規劃預留25–40分", "phone": "使用官網CONTACT（未在本輪核得電話，勿猜填）", "hours": "12:00–19:30；週二、三休", "open4": "17休／18休／19○／20○", "tax": "未確認免稅；有英文頁不代表免稅資格。", "packing": "有機械／組車服務，但航空裝箱與交付時間未確認。", "visit": "19下北澤行程若有餘裕，再接表參道／外苑前；先取得具體成車折扣，沒有就保留街區旅行。", "minutes": "30–45分", "official": "https://www.nalsimafrend.jp/about/", "extra": [["近期特價線索", "https://www.nalsimafrend.jp/tag/anchor/"]], "ll": [35.670429, 139.710341], "positionNote": "町丁目代表點（非店門口）；同街區店可能共用點位，入口請用Google Maps", "positionSource": "https://github.com/geolonia/japanese-addresses", "bikes": []}, {"rank": 10, "name": "Cycly サイクリー 世田谷", "kind": "中古／零件與完整車；新增跨店來源", "why": "網站可按店家、品牌、價格、販售中、新著／Sale篩選；比盲搜更有效率。實體在仙川，不是下北澤步行圈，先有具體完整車才繞。", "candidates": "目前無保留個車；線上先過濾完整成車，避免零件與車架低價干擾。", "address": "東京都世田谷区給田3-26-23 池亀ビル", "access": "京王線仙川步行約7分；飯店規劃預留55–80分", "phone": "03-3326-3196", "hours": "10:00–20:00；週三休", "open4": "17○／18休／19○／20○", "tax": "第三方免稅名錄曾列此店；屬舊線索，不是11月新制承辦確認。", "packing": "航空箱與打包待核。官方Rakuten FAQ明示Rakuten訂單不能店取；官網／現場交易須另問。", "visit": "僅在19下北澤日前查到可購完整車才加入京王線支線；不為零件逛店犧牲半天。", "minutes": "30–45分", "official": "https://www.cycly.co.jp/ShopInfo/Details/1016", "extra": [["全國庫存篩選", "https://www.cycly.co.jp/"], ["免稅名錄僅線索", "https://www.taxfreeshops.jp/ja/shop/5029"], ["Rakuten店取限制", "https://www.rakuten.ne.jp/gold/cycly/qa/"]], "ll": [35.666, 139.59252], "positionNote": "町丁目代表點（非店門口）；同街區店可能共用點位，入口請用Google Maps", "positionSource": "https://github.com/geolonia/japanese-addresses", "bikes": []}, {"rank": 11, "name": "Buychari 有明ガーデン", "kind": "中古／指定Canyon才去", "why": "有你保留的Canyon，可看後下叉傷況。和現有觀光線不同方向，且商場店家頁未列免稅，單為挖寶不如AKIBA。", "candidates": "JP-Claude-20261108-001 Canyon Ultimate CF SL8 Aero 2022／S，¥440,000；依11/10 Claude。", "address": "東京都江東区有明2-1-7 有明ガーデン1F（Buychari官網地址）", "access": "有明テニスの森約3分／國際展示場約7分；飯店規劃預留45–65分", "phone": "03-6380-7637", "hours": "10:00–20:00；原則全年營業，設施休館除外", "open4": "17○／18○／19○／20○", "tax": "商場官方單店頁 TAX FREE＝「—」，目前不按可退稅規劃；商場有退稅櫃台不代表此店適用。", "packing": "官方國內配送政策不提供為縮小尺寸而拆解；航空打包、費用待店核。", "visit": "只在Canyon經台灣比價和傷況照片後仍是前兩名才安排。否則不加進四天基本路線。", "minutes": "45–60分", "official": "https://ariake.shopping-sumitomo-rd.com/eng/shop/992/", "extra": [["官方門市", "https://buychari.com/pages/shop"], ["配送", "https://buychari.com/pages/shipping-charges"]], "ll": [35.636322, 139.789974], "positionNote": "町丁目代表點（非店門口）；同街區店可能共用點位，入口請用Google Maps", "positionSource": "https://github.com/geolonia/japanese-addresses", "bikes": [{"name": "JP-Claude-20261108-001CANYON ULTIMATE CF SL 8 DISC AERO（Ultegra Di2 R8170 12s）2022尺寸 S (ST 494 / TT 543; 適応身長 172-178)", "price": "含稅 ¥440,000 / NT$92,664退稅條件試算 ¥400,000 / NT$84,240", "url": "https://buychari.com/products/rc_itb3tdzoivaw_nebe"}]}, {"rank": 12, "name": "BICI AMORE 立川", "kind": "中古／Emonda指定原店；可轉店就不遠征", "why": "Emonda原庫存店，但和八王子不在同一個步行區。若能先轉南麻布，省去來回；若無法轉且車成為首選，再直接約原店。", "candidates": "JP-Claude-20261110-001 Emonda SL6 Pro Di2 2023／54（Gemini006同台）；¥319,000。Gemini008 Scultura僅集合線索，不能當此店已核現貨。", "address": "東京都立川市柴崎町2-2-19 カトービル1F", "access": "立川站周邊；飯店規劃預留65–90分", "phone": "042-512-7035", "hours": "11:00–19:00；預約可看時段依商品頁11:00–18:00；週三、四休", "open4": "17須約／18休／19休／20須約", "tax": "整車免稅未知；不可套車衣店公告。", "packing": "倉庫預約；可申請轉店，完成車另有¥8,000政策樣本，本車和檔期待核。航空箱與打包費未核。", "visit": "若20去，最好已確認車況、價格與包裝，直接看車／取車；不要將17離團接點未定時硬排此站。", "minutes": "45–60分", "official": "https://web-store.biciamore.jp/pages/shops", "extra": [["官方立川開店／地址", "https://biciamore.jp/news/new-open-tachikawa/"], ["來店政策", "https://web-store.biciamore.jp/pages/faq"]], "ll": [35.694938, 139.40869], "positionNote": "町丁目代表點（非店門口）；同街區店可能共用點位，入口請用Google Maps", "positionSource": "https://github.com/geolonia/japanese-addresses", "bikes": [{"name": "JP-Claude-20261110-001TREK EMONDA SL6 PRO DI2 2023（105 Di2 R7170 12s）尺寸 54 (ST 496 / TT 543 / HT 131; 適応身長 172-178；サドル高調整幅 675-730mm)", "price": "刊登價 ¥319,000 / NT$67,181退稅條件試算 ¥290,000 / NT$61,074免稅資格／費用未確認", "url": "https://web-store.biciamore.jp/products/bkk579_tachikawa"}]}, {"rank": 13, "name": "BICI AMORE 浦和", "kind": "中古／高價參考，低優先", "why": "你保留Madone是欣賞與參考，自己已註記大概不買；沒有其他明確車款，不值得為此遠征埼玉。", "candidates": "JP-Claude-20261102-064 Madone SLR9 Gen8 2025／M；¥880,000，參考用。", "address": "埼玉県さいたま市浦和区東岸町9-20 新山ビル1F", "access": "浦和周邊；飯店規劃預留60–85分", "phone": "048-884-0220", "hours": "11:00–19:00；週三、四休；預約", "open4": "17須約／18休／19休／20須約", "tax": "整車免稅未知。", "packing": "航空打包未知；能轉至南麻布時先看成本與到貨日，不為看參考車付運費。", "visit": "四天基本路線略過；只有成為真實購買候選才重排。", "minutes": "若特約45分", "official": "https://web-store.biciamore.jp/pages/shops", "extra": [["官方各店營業", "https://biciamore.jp/parts_lp/"]], "ll": [35.854235, 139.662802], "positionNote": "町丁目代表點（非店門口）；同街區店可能共用點位，入口請用Google Maps", "positionSource": "https://github.com/geolonia/japanese-addresses", "bikes": [{"name": "JP-Claude-20261102-064TREK MADONE SLR9 GEN8 2025（Dura-Ace Di2 R9270）尺寸 M (ST 476 / TT 545; 適応身長 166-177cm)", "price": "含稅 ¥880,000 / NT$185,328退稅條件試算 ¥799,999 / NT$168,480", "url": "https://web-store.biciamore.jp/products/bkk518_urawa"}]}, {"rank": 14, "name": "BICI AMORE 横浜", "kind": "中古／舊圈煞參考，低優先", "why": "保留的Look雖有吸引力，但你已註記購買機率低；跨到橫濱的時間成本高，不符合這四天的優先目標。", "candidates": "JP-Claude-20261106-016 LOOK785 Huez RS 2018／M；僅先保留。", "address": "神奈川県横浜市中区山下町106-3", "access": "橫濱山下町；飯店規劃預留75–105分", "phone": "045-263-8195", "hours": "11:00–19:00；週三、四休；預約", "open4": "17須約／18休／19休／20須約", "tax": "整車免稅未知。", "packing": "航空打包未知；東京取車不可自行推定可安排。", "visit": "基本行程略過；除非已決定購買，不另開橫濱日。", "minutes": "若特約45分", "official": "https://web-store.biciamore.jp/pages/shops", "extra": [["營業／預約", "https://biciamore.jp/parts_lp/"]], "ll": [35.446005, 139.656952], "positionNote": "町丁目代表點（非店門口）；同街區店可能共用點位，入口請用Google Maps", "positionSource": "https://github.com/geolonia/japanese-addresses", "bikes": [{"name": "JP-Claude-20261106-016LOOK 785 HUEZ RS 2018尺寸 M (ST 530 / TT 555.7 / HT 161; 適応身長 177-182)", "price": "含稅 ¥231,000 / NT$48,649退稅條件試算 ¥209,999 / NT$44,226", "url": "https://web-store.biciamore.jp/products/bkk453_yokohama"}]}], "plans": [["11/17（二）", "離團＋入住；紀尾井町", "基本不遠征。先確認18日兩家Y’s成車與交付。", "若南麻布指定車已預約且離團後可趕上，才替換下午部分行程。", "BICI南麻布／立川／浦和／橫濱皆只有17或20能看。離團地點、時間、行李取出仍待確定。"], ["11/18（三）", "主要新車挖寶日", "10:00 池袋チャーリー（60–75分）→午餐／移動→12:00–13:30 新宿本館。下午比較、核退稅／包裝，至多2家主要店。", "沒有合適車就回原東京站／日本橋備案；葛西只在預篩至少2台、確認能看後另排。", "BICI全體及Firstbikes休；なるしま、Cycly世田谷也休。不能照一般「辦事日」去碰運氣。"], ["11/19（四）", "下北澤；遠征的唯一可交換日", "保留下北澤；有具體折扣可順加なるしま（非近鄰步行點）。", "ORCA實車照片／報價／20前交付先談妥才用半天八王子取代下北澤；或已預篩的葛西／Cycly擇一，不全排。", "Firstbikes12時開；BICI仍休。11/19前最好選定購買店並拿到打包時間。"], ["11/20（五）", "谷中＋上野／AKIBA；已談妥車的取件日", "若不買BICI：上午谷中→12:00 Y’s上野本館→有餘裕短看アサゾー→AKIBA看指定車；按已約時間取車。", "若BICI是主選：先約南麻布指定看車／取車，減少或取消谷中與泛逛；不將南麻布＋八王子＋上野全塞同一天。", "最晚下午完成成交／交車與打包，晚間清點。最後一天只接受已整備、確認可交付的車，不賭新調車與組裝。"]], "webs": [["A1", "Cycle Paradise", "新增優先中古來源", "跨品牌完成車庫存；官方提到整備後陸續上網。先篩品牌／尺寸／價，排除售完與JUNK。", "現場可能看到待上架，但不能推定可售。網購／展示／免稅及交期先核。", "https://www.cypara.com/"], ["A2", "Cycly サイクリー", "新增優先中古跨店篩選", "首頁可按店、品牌、預算、販售中、新著Sale及新品／中古篩選；先選完整成車。", "不是即時庫存保證；Rakuten訂單無店取，別先下單再要求門市免稅。", "https://www.cycly.co.jp/"], ["A3", "SHIFTA", "新增跨店實庫存入口", "車款頁「このモデルの在庫がある店舗を探す」，可依東京／附近距離及品牌找獨立經銷商。", "只涵蓋平台刊登品牌／車款；不是全日本庫存。店頭價、平台價與優惠不同，且出現過已閉店Crown舊資料，出發前查官網。", "https://shifta.jp/dealers/"], ["A4", "Y’s Road ONLINE＋各店Blog", "既有來源，但要改搜尋方式", "同時查Outlet、店家Blog與門市詢價；官方FAQ承認門市有網上沒列的商品／店限定低價。", "本輪部分網址轉緊急維護頁，店照常；庫存非即時。關東調車FAQ有區域條件，不代表四天必到。2026 BF日期未獨立核實，不沿用2025舊文。", "https://online.ysroad.co.jp/shop/l/loutlet/?dlink=1"], ["B1", "Bike Plus", "新增TREK多店促銷／展示車來源", "2026秋季活動到11/29，店頭在庫限；商品可含試乘車註記。原文列車型尺寸與店別，可先找目標。", "活動最大30%不是每台；Google在庫非實庫存，官方FAQ明示可能缺貨。免稅／箱／東京四天交付各店另核。", "https://bike-plus.com/collections/autumn-sale-2026"], ["B2", "SEO Cycle 各店Blog", "新增獨立門市在庫／特價線索", "官方Blog依門店更新；比全店總庫存弱，但有只有店Blog刊出的特價。先篩公路專門店與關東地址。", "大量通勤車資訊，雜訊高；不能看到一間有貨就推全體系可調。鮫洲有閉店訊息、晴海舊分店已停，必核店況。", "https://www.seocycle.co.jp/master-list.php"], ["B3", "Firstbikes 在庫表＋Blog", "特定交易與店家特價", "先看53號ORCA；目前官網另有11/9 FELT促銷，屬新增活動，不是折扣已勝過現有候選。", "活動價／現金條件／期限不同；取寄可能無法20日前到。", "https://firstbikes2020.com/contents/category/stock-list/"], ["B4", "Buychari 全國在庫", "既有中古來源；依店過濾", "新品到貨按日期掃，東京店與關東外分開。AKIBA及有明各有指定保留車。", "不能當成所有分店可調貨或免稅；東京商品化中心不是散客實店。", "https://buychari.com/collections/bike-roadbike"], ["B5", "BICI AMORE 全國在庫", "既有中古來源；用轉店而非跑全店", "依庫存店、車款、尺寸篩；先看管理編號及實車傷況相簿；可申請轉店。", "預約制、水木休；FAQ不試騎、不議價、不留車。轉店不保證時程。整車免稅不可套車衣店舊公告。", "https://web-store.biciamore.jp/collections/road-bikes"]], "notes": [["排序依據", "優先看：你真的可能買的車／完整成車特價密度→四天內交付與地理順路→免稅證據→打包可行性。沒有用網路星等或虛構分數。排名是本次行程的判斷，非市場成交／服務品質評分。"], ["免稅證據分級", "Y’s所列分店有官方免稅標示，但新制實務／費用仍核；Cycly只有舊第三方名錄；Buychari有明官方未列；BICI整車／Firstbikes／CycleParadise／なるしま未核。沒有一間在本輪被確認同時承諾「此車可退稅＋指定航空箱尺寸＋20日前完成」。"], ["航空打包先取得明確報價", "買前問是否提供紙箱和內襯、固定前叉／後三角、防壓傷、拆輪／把手／踏板／座管、碟盤與電變保護，及裝箱後外尺寸／總重、拆裝費、完成日期。還要問海關檢查後是否便於重封。國內宅配包裝不直接等同航空托運。"], ["2026/11新退款制", "觀光廳：11/1購入起先付含稅，離境持出確認後退款；出境前、託運前辦理，不能先把車交給航空公司再申請檢查。店家必須辦理合規銷售，普通收據不能自己變退款。費用與退款管道依承辦店確認。"], ["11/21與飯店限制", "回程機場、航班、航廈與時間仍未提供，不套跟團11/17航班；未排最後一晚新訂機場宅配。飯店已回覆一般包裹可代收，但大型自行車箱、尺寸／件數／保管費與推車動線要另外確認。成交後才評估租車／大型計程車，地鐵可達店不等於可攜整車箱搭車。"], ["出門前縮到6項", "明確個車和尺寸、含稅最終價、現貨和可看時間、新制退稅承辦與費用、20日前整備取車、航空打包含箱尺寸費用。確認兩家主店即可出門，不必等所有店回覆。尚未代你聯絡或預約。"], ["CROWN GEARS：排除", "官方公告2025/10/31閉店。免稅名錄與SHIFTA舊頁仍可找到，不能列作2026巡店。"], ["Buychari 東京商品化中心：排除實訪", "官網列非一般銷售／收購店；不把東京商品化中心的網上商品當可去的門市。"], ["宇都宮：不排四天基本路線", "JP-Claude-20261102-008 ColnagoV3與-010 Bianchi Specialissima在Buychari宇都宮（依11/10 Claude）。你仍保留，但需先確定成為首選才遠征，否則花掉大半天。地圖僅店名搜尋，營業與地址需再核。"], ["關西：不為現場泛逛改東京行程", "JP-Claude-20261102-032 SL7Expert與JP-Claude-20261110-002 Reacto4000在滋賀大津；REACTO9000（-054）及-052/-049/-046/-051/-047在大阪Kanzaki。先談東京交付，不預設東京分店或能跨店調車。"], ["郊外Outlet：線上先看，不盲目遠征", "Y’s越谷／入間有Outlet門市，可從官方名單索引；無具體尺寸特價時，這次優先池袋チャーリー和新宿。"], ["資料時效與限制", "2026/11/10查核官網、門市頁、FAQ及官方商場資料；搜索摘要／舊名錄有明示。營業為正常週曆，沒有承諾臨時休業不變；路程為規劃預留，不是即時班次。未查得的打包／退款／未上架庫存不填成已確認。"]]};
+window.TRIP_SHOPS={
+  "asof": "2026-11-12",
+  "hotel": "Toshi Center Hotel／東京都千代田区平河町2-4-1",
+  "shops": [
+    {
+      "rank": 1,
+      "name": "Y’s Road 池袋チャーリー",
+      "kind": "新車／品牌出清；第一站",
+      "why": "最符合挖寶目的：店家定位明確是品牌Outlet與短交期完成車，不只展示當季原價車。永田町有樂町線可往池袋。先看成車及可立即交付尺寸，再看零件，避免逛散。",
+      "candidates": "無已確認在此分店的保留個車；ORCA M30（JP-Claude-20261106-009）屬Y’s體系，不能當作池袋現貨。",
+      "address": "東京都豊島区東池袋1-43-6 D-BOXビル2F",
+      "access": "池袋駅；從飯店規劃預留30–45分",
+      "phone": "03-3983-8694",
+      "hours": "10:00–20:00；無固定休",
+      "open4": "17二○／18三○／19四○／20五○",
+      "tax": "官方門市資料列免稅對應店；2026/11退款制承辦、成車適用與費用仍須此店確認。",
+      "packing": "東京此店航空打包、紙箱、尺寸、費用及完成日未找到公開承諾；不能套大阪分店舊文。 部分池袋限定Outlet不接受跨店移動，亦不受理電話留車；詢問現貨與留車是兩回事。",
+      "visit": "11/18 10:00首站，約60–75分；要求查看未上網、展示車、舊年式特價。11:30左右轉新宿。",
+      "minutes": "60–75分",
+      "official": "https://portal.ysroad.co.jp/shop/kanto/charley/",
+      "extra": [
+        [
+          "Outlet定位",
+          "https://ysroad.co.jp/charley/"
+        ],
+        [
+          "網站／營業現況",
+          "https://d1bmo0smkkt8hz.cloudfront.net/"
+        ],
+        [
+          "跨店與價格限制",
+          "https://online.ysroad.co.jp/shop/pages/faq.aspx"
+        ],
+        [
+          "池袋限定Outlet限制（搜尋索引，頁面或維護）",
+          "https://ysroad.co.jp/charley/page/90?IncludeBlogs=0&limit=20&s=GARMIN&x=0&y=0_device%3Dpc"
+        ],
+        [
+          "旅客折扣券／新制",
+          "https://tokyo-newtravel.com/ys-road/"
+        ]
+      ],
+      "ll": [
+        35.731372,
+        139.715298
+      ],
+      "positionNote": "町丁目代表點（非店門口）；同街區店可能共用點位，入口請用Google Maps",
+      "positionSource": "https://github.com/geolonia/japanese-addresses",
+      "bikes": [],
+      "taxConfirmed": true
+    },
+    {
+      "rank": 2,
+      "name": "Y’s Road 新宿本館",
+      "kind": "新車／大型綜合；第二站",
+      "why": "大型多品牌完成車店，官方稱常設展示500台以上，適合一次問清尺寸、舊車出清與納車時程。可補足網路未列或門市限定價；規模不等於一定比台灣便宜。",
+      "candidates": "ORCA M30（JP-Claude-20261106-009）為體系候選，實際庫存分店待核；其餘已封存Y’s個車不因此復活。",
+      "address": "東京都新宿区新宿2-19-1 BYGSビルB1F",
+      "access": "新宿三丁目C8；飯店規劃預留25–40分",
+      "phone": "03-3350-1288",
+      "hours": "平日12:00–20:00；週末11:00–19:00；無固定休",
+      "open4": "17○／18○／19○／20○",
+      "tax": "分店官方列免稅，台灣車友有Bianchi公路成車免稅實買；該案例為舊制。現行合作券列退款制；請問特價車適用與費用。",
+      "packing": "台灣車友曾獲店家告知約3個工作天，紙箱庫存與費用依當次。請先確認本次可否裝箱與取車日。",
+      "visit": "11/18 12:00第二站，約75–90分；帶台灣比較價，詢問門市現金價／特價能否併退款；當天選出至多2台。",
+      "minutes": "75–90分",
+      "official": "https://ysroad.co.jp/shinjuku/shop",
+      "extra": [
+        [
+          "免稅／營業",
+          "https://portal.ysroad.co.jp/shop/kanto/shinjuku/"
+        ],
+        [
+          "網站現況",
+          "https://d1bmo0smkkt8hz.cloudfront.net/"
+        ],
+        [
+          "價格可能與網路不同",
+          "https://online.ysroad.co.jp/shop/pages/faq.aspx"
+        ],
+        [
+          "旅客折扣券／新制",
+          "https://tokyo-newtravel.com/ys-road/"
+        ],
+        [
+          "台灣車友實買與打包紀錄",
+          "https://tings.tw/bianchi/"
+        ]
+      ],
+      "ll": [
+        35.690064,
+        139.708387
+      ],
+      "positionNote": "町丁目代表點（非店門口）；同街區店可能共用點位，入口請用Google Maps",
+      "positionSource": "https://github.com/geolonia/japanese-addresses",
+      "bikes": [],
+      "taxConfirmed": true
+    },
+    {
+      "rank": 3,
+      "name": "Buychari AKIBA",
+      "kind": "中古／一次看多台既有候選",
+      "why": "目前保留個車集中度最好：可同場看SL7 Pro、Focus及S5參考。和御徒町兩間Y’s順路，適合以實車傷況、幾何及配件作決定。",
+      "candidates": "JP-Claude-20261102-016 Tarmac SL7 Pro 1x 54；-012 Focus Izalco Max9 M；-019 Cervélo S5 54（僅參考）。依11/10 Claude，非替你留車。",
+      "address": "東京都千代田区神田練塀町14-4外",
+      "access": "秋葉原電氣街口步行約3分；飯店規劃預留30–45分",
+      "phone": "03-5244-4080",
+      "hours": "11:00–20:00；原則全年營業（設施休館除外）",
+      "open4": "17○／18○／19○／20○",
+      "tax": "此分店免稅未核；不能推論所有Buychari都有，也不能因秋葉原多免稅店就套用。",
+      "packing": "國內配送有紙箱運送，不等於航空包裝；官方不接受為縮尺寸而拆解的配送要求。另問紙箱取得／航空打包。",
+      "visit": "11/20與上野成一條線，約60–90分。若只剩半天，優先本店＋Y’s上野本館；最晚取車時段須事先約定。",
+      "minutes": "60–90分",
+      "official": "https://buychari.com/pages/shop",
+      "extra": [
+        [
+          "配送限制",
+          "https://buychari.com/pages/shipping-charges"
+        ]
+      ],
+      "ll": [
+        35.70071,
+        139.774037
+      ],
+      "positionNote": "町丁目代表點（非店門口）；同街區店可能共用點位，入口請用Google Maps",
+      "positionSource": "https://github.com/geolonia/japanese-addresses",
+      "bikes": [
+        {
+          "name": "JP-Claude-20261102-016SPECIALIZED TARMAC SL7 PRO SRAM FORCE ETAP AXS 1X 2021年モデル尺寸 54 (ST 500mm / TT 540mm(ホリゾンタル換算); 適応身長 170-180cm)",
+          "price": "含稅 ¥396,000 / NT$83,398退稅條件試算 ¥360,000 / NT$75,816",
+          "url": "https://buychari.com/products/rc_itnw24snkewo_m3cz"
+        },
+        {
+          "name": "JP-Claude-20261102-012FOCUS IZALCO MAX 9 ULTEGRA Di2 2021年モデル尺寸 M (ST 510mm / TT 551mm(ホリゾンタル換算); 適応身長 175-180cm)",
+          "price": "含稅 ¥420,000 / NT$88,452退稅條件試算 ¥381,818 / NT$80,411",
+          "url": "https://buychari.com/products/rc_itnnqk87yftw_kucs"
+        },
+        {
+          "name": "JP-Claude-20261102-019CERVELO S5 DISC 2020年モデル尺寸 54 (ST 480mm / TT 548mm(ホリゾンタル換算); 適応身長 175-180cm)",
+          "price": "含稅 ¥900,000 / NT$189,540退稅條件試算 ¥818,181 / NT$172,309",
+          "url": "https://buychari.com/products/rc_it4cdz6xgdki_m63x"
+        }
+      ],
+      "taxConfirmed": false
+    },
+    {
+      "rank": 4,
+      "name": "BICI AMORE 南麻布",
+      "kind": "中古／預約看指定車；有條件必看",
+      "why": "有保留XR3，也可先問能否將立川Emonda轉來，減少遠征。倉庫保管且來店預約，並不是隨到可看完所有全國庫存的展場。",
+      "candidates": "JP-Claude-20261102-068 Bianchi XR3 55（lua800_azabu）；JP-Claude-20261110-001 Emonda54在立川，僅可申請轉店，未安排／未確認到貨。舊Domane已封存，不列主推。",
+      "address": "東京都港区南麻布4-13-7 シルク南麻布1F",
+      "access": "廣尾站步行約7分；飯店規劃預留35–55分",
+      "phone": "03-6455-7819",
+      "hours": "11:00–19:00；週三、四休；來店需預約",
+      "open4": "17○須約／18休／19休／20○須約",
+      "tax": "未確認南麻布整車免稅。2024公告僅車衣店先啟用，未找到已擴及本店的有效公告。",
+      "packing": "官方FAQ確認可到店取車；不接受試騎／議價／留車。轉店成車費用可見其他商品頁¥8,000，但本車、時程及航空包裝另核。",
+      "visit": "若17離團後時間充足且已約可先看；否則20預約，需取代部分谷中／上野行程。不要等20第一次問轉店。",
+      "minutes": "45–60分；取車另留60分",
+      "official": "https://web-store.biciamore.jp/pages/shops",
+      "extra": [
+        [
+          "店家詳情",
+          "https://biciamore.jp/shop_information/南麻布店/"
+        ],
+        [
+          "取車／試騎／議價",
+          "https://web-store.biciamore.jp/pages/faq"
+        ],
+        [
+          "免稅舊公告範圍",
+          "https://biciamore.jp/shop_category/サイクルジャージ店/page/2/"
+        ]
+      ],
+      "ll": [
+        35.648895,
+        139.725718
+      ],
+      "positionNote": "町丁目代表點（非店門口）；同街區店可能共用點位，入口請用Google Maps",
+      "positionSource": "https://github.com/geolonia/japanese-addresses",
+      "bikes": [
+        {
+          "name": "JP-Claude-20261102-068BIANCHI OLTRE XR3 DISC 2021（105）東京尺寸 55 (ST 495 / TT 550 / HT 145; 適応身長 177-183cm)",
+          "price": "含稅 ¥231,000 / NT$48,649退稅條件試算 ¥209,999 / NT$44,226",
+          "url": "https://web-store.biciamore.jp/products/lua800_azabu"
+        }
+      ],
+      "taxConfirmed": false
+    },
+    {
+      "rank": 5,
+      "name": "Firstbikes International 八王子",
+      "kind": "新車／客製完成車；成交條件成立才遠征",
+      "why": "有你真正感興趣的Orca Aero，具體交易價值可能高於泛逛。若實車照片、車況和接近¥579,080的報價獲確認，升為第一優先；若仍¥757,263且無明顯優勢，不花半天盲逛。",
+      "candidates": "JP-Claude-20261102-042 ORCA AERO M20iTEAM／53。¥579,080為過期活動價，¥757,263為11/6在庫表價，未確認新的議價結果。",
+      "address": "東京都八王子市散田町5-11-3 フローラル散田A号室",
+      "access": "西八王子／めじろ台；由飯店規劃單程90–120分含轉乘與末段步行",
+      "phone": "042-673-3806",
+      "hours": "平日12:00–19:00；週末13:00–19:00；週三休，活動可變更",
+      "open4": "17可先問／18休／19可先問／20可先問",
+      "tax": "未確認免稅登錄與承辦；不能以有海外客或能配送推論可退稅。",
+      "packing": "官網國內整車配送約¥10,000–20,000；有庫存約3日出貨，不是3日送達。航空箱、打包費、退款方式均未核。",
+      "visit": "優先19（四）中午預約，與下北澤日交換；交通＋看車預留半天。20僅作已談妥後的取車，不作首次探索。",
+      "minutes": "現場60–90分；總半天",
+      "official": "https://firstbikes2020.com/contents/category/shop/",
+      "extra": [
+        [
+          "庫存",
+          "https://firstbikes2020.com/contents/category/stock-list/"
+        ],
+        [
+          "配送",
+          "https://firstbikes2020.com/contents/category/delivery/"
+        ],
+        [
+          "營業日曆",
+          "https://firstbikes2020.com/contents/category/calendar/"
+        ]
+      ],
+      "ll": [
+        35.647977,
+        139.301624
+      ],
+      "positionNote": "町丁目代表點（非店門口）；同街區店可能共用點位，入口請用Google Maps",
+      "positionSource": "https://github.com/geolonia/japanese-addresses",
+      "bikes": [
+        {
+          "name": "JP-Claude-20261102-042ORBEA ORCA AERO M20i TEAM Ultegra Di2 R8100 客製完成車尺寸 53",
+          "price": "含稅 ¥757,263 / NT$159,480退稅條件試算 ¥688,420 / NT$144,981",
+          "url": "https://firstbikes2020.com/contents/category/stock-list/"
+        }
+      ],
+      "taxConfirmed": false
+    },
+    {
+      "rank": 6,
+      "name": "Y’s Road 上野本館",
+      "kind": "新車／上野行程順路",
+      "why": "與11/20谷中／上野自然串聯，比為一間沒有明確個車的遠店專程移動有效率。以可交付完成車和舊年式現貨為主。",
+      "candidates": "沒有確認在此分店的保留個車；請用車款與尺寸查各店，不把線上體系庫存當此店庫存。",
+      "address": "東京都台東区上野3-16-3 鈴木ビル1–2F",
+      "access": "御徒町／上野廣小路／末廣町；飯店規劃預留30–45分",
+      "phone": "03-3836-6168",
+      "hours": "平日12:00–20:00；週末11:00–19:00；無固定休",
+      "open4": "17○／18○／19○／20○",
+      "tax": "官方列免稅對應店；11月新制手續與個車適用待核。",
+      "packing": "航空打包與當日納車未公開確認；最後一天別以看完可立即帶走作前提。",
+      "visit": "11/20 12:00；谷中上午後由上野往御徒町，再到AKIBA。先看本館，アサゾー僅有餘裕再加。",
+      "minutes": "45–60分",
+      "official": "https://portal.ysroad.co.jp/shop/kanto/ueno/",
+      "extra": [
+        [
+          "網站現況",
+          "https://d1bmo0smkkt8hz.cloudfront.net/"
+        ],
+        [
+          "查庫存／價格限制",
+          "https://online.ysroad.co.jp/shop/pages/faq.aspx"
+        ],
+        [
+          "旅客折扣券／新制",
+          "https://tokyo-newtravel.com/ys-road/"
+        ]
+      ],
+      "ll": [
+        35.705408,
+        139.773096
+      ],
+      "positionNote": "町丁目代表點（非店門口）；同街區店可能共用點位，入口請用Google Maps",
+      "positionSource": "https://github.com/geolonia/japanese-addresses",
+      "bikes": [],
+      "taxConfirmed": true
+    },
+    {
+      "rank": 7,
+      "name": "Cycle Paradise 東京（葛西）",
+      "kind": "中古倉庫／新增來源；先聯絡再決定",
+      "why": "補足Buychari、BICI以外的大型中古來源，品牌廣。官方說商品整備後陸續上網，有探索價值；但不保證未上網車願售或四天內交付。資訊頁有地址13號／15號及休假差異，先確認。",
+      "candidates": "目前沒有已保留個車在此；先用網站篩至少2台值得看，再安排現場。",
+      "address": "東京都江戸川区中葛西6-10-13（零售頁）／6-10-15（倉庫介紹）；同區近鄰，入口待核",
+      "access": "葛西站；官網約步行8分；飯店規劃預留45–65分",
+      "phone": "03-6634-8533（倉庫介紹）；cycleparadise@verygood.co.jp",
+      "hours": "官方兩頁均12:00–18:00；一頁無固定休、一頁不定休，需先確認",
+      "open4": "17–20均須先確認開放與實車可看，不當作保證營業",
+      "tax": "未找到可靠免稅承辦證據；線上購車與現場退款程序均待核。",
+      "packing": "官網FAQ：除特別標明者外原則僅配送，未列免運的成車 ¥22,000；付款確認後最快2日出貨。展間能否看實車、入口與休店資訊需先確認。",
+      "visit": "只在18無合適車且官網先篩中2台時，替換19半天。不要20傍晚才第一次來；距離與交易限制降低實訪排名。",
+      "minutes": "60–90分；總半天",
+      "official": "https://www.cypara.com/store/retail/cyparatokyo.html",
+      "extra": [
+        [
+          "倉庫介紹及資訊衝突",
+          "https://www.cypara.com/blog/shop-info/tokyo-store/"
+        ],
+        [
+          "跨品牌線上庫存",
+          "https://www.cypara.com/"
+        ],
+        [
+          "公路車線上庫存",
+          "https://www.cypara.com/c/bike/bike_roadbike"
+        ],
+        [
+          "取車與配送FAQ",
+          "https://www.cypara.com/f/faq"
+        ],
+        [
+          "書面詢問",
+          "mailto:cycleparadise@verygood.co.jp"
+        ]
+      ],
+      "ll": [
+        35.660109,
+        139.86719
+      ],
+      "positionNote": "町丁目代表點（非店門口）；同街區店可能共用點位，入口請用Google Maps",
+      "positionSource": "https://github.com/geolonia/japanese-addresses",
+      "bikes": [],
+      "taxConfirmed": false
+    },
+    {
+      "rank": 8,
+      "name": "Y’s Road 上野アサゾー",
+      "kind": "高階車架／輪組；順路加看",
+      "why": "適合問特殊塗裝、展示／舊庫存及高階組車；本次目標是完整成車，若只有車架優惠，組裝與交期會吃掉四天，故低於上野本館。",
+      "candidates": "目前無已確認對應的保留個車；不因看到便宜車架就當成完整成車便宜。",
+      "address": "東京都台東区上野3-19-4 KEN BUILDING1F",
+      "access": "御徒町；與上野本館同區，步行串聯",
+      "phone": "03-3839-7939",
+      "hours": "平日12:00–20:00；週末11:00–19:00；無固定休",
+      "open4": "17○／18○／19○／20○",
+      "tax": "官方列免稅對應；仍確認特價商品與新制退款。",
+      "packing": "航空打包與四天內客製組車均未核。",
+      "visit": "11/20上野本館後短看；只問可於20日前交付的完整車。沒有就離開。",
+      "minutes": "20–30分",
+      "official": "https://portal.ysroad.co.jp/shop/kanto/asazo/",
+      "extra": [
+        [
+          "店家庫存／介紹",
+          "https://ysroad.co.jp/asazo/"
+        ],
+        [
+          "網站現況",
+          "https://d1bmo0smkkt8hz.cloudfront.net/"
+        ],
+        [
+          "旅客折扣券／新制",
+          "https://tokyo-newtravel.com/ys-road/"
+        ]
+      ],
+      "ll": [
+        35.705408,
+        139.773096
+      ],
+      "positionNote": "町丁目代表點（非店門口）；同街區店可能共用點位，入口請用Google Maps",
+      "positionSource": "https://github.com/geolonia/japanese-addresses",
+      "bikes": [],
+      "taxConfirmed": true
+    },
+    {
+      "rank": 9,
+      "name": "なるしまフレンド 神宮",
+      "kind": "新車／專業組車與選車；順路備選",
+      "why": "公路車專門店，官方近期有特價車資訊，值得當多品牌獨立店補充。較像選車／規格諮詢，未證明有比現有候選更甜的完成車，故不排必逛。",
+      "candidates": "無現有保留個車；Anchor你已排除的個車不因店家促銷自動回來。",
+      "address": "東京都渋谷区神宮前3-35-2",
+      "access": "外苑前步行約7分；飯店規劃預留25–40分",
+      "phone": "使用官網CONTACT（未在本輪核得電話，勿猜填）",
+      "hours": "12:00–19:30；週二、三休",
+      "open4": "17休／18休／19○／20○",
+      "tax": "未確認免稅；有英文頁不代表免稅資格。",
+      "packing": "有機械／組車服務，但航空裝箱與交付時間未確認。",
+      "visit": "19下北澤行程若有餘裕，再接表參道／外苑前；先取得具體成車折扣，沒有就保留街區旅行。",
+      "minutes": "30–45分",
+      "official": "https://www.nalsimafrend.jp/about/",
+      "extra": [
+        [
+          "近期特價線索",
+          "https://www.nalsimafrend.jp/tag/anchor/"
+        ]
+      ],
+      "ll": [
+        35.670429,
+        139.710341
+      ],
+      "positionNote": "町丁目代表點（非店門口）；同街區店可能共用點位，入口請用Google Maps",
+      "positionSource": "https://github.com/geolonia/japanese-addresses",
+      "bikes": [],
+      "taxConfirmed": false
+    },
+    {
+      "rank": 10,
+      "name": "Cycly サイクリー 世田谷",
+      "kind": "中古／零件與完整車；新增跨店來源",
+      "why": "網站可按店家、品牌、價格、販售中、新著／Sale篩選；比盲搜更有效率。實體在仙川，不是下北澤步行圈，先有具體完整車才繞。",
+      "candidates": "目前無保留個車；線上先過濾完整成車，避免零件與車架低價干擾。",
+      "address": "東京都世田谷区給田3-26-23 池亀ビル",
+      "access": "京王線仙川步行約7分；飯店規劃預留55–80分",
+      "phone": "03-3326-3196",
+      "hours": "10:00–20:00；週三休",
+      "open4": "17○／18休／19○／20○",
+      "tax": "第三方免稅名錄曾列此店；屬舊線索，不是11月新制承辦確認。",
+      "packing": "航空箱與打包待核。官方Rakuten FAQ明示Rakuten訂單不能店取；官網／現場交易須另問。",
+      "visit": "僅在19下北澤日前查到可購完整車才加入京王線支線；不為零件逛店犧牲半天。",
+      "minutes": "30–45分",
+      "official": "https://www.cycly.co.jp/ShopInfo/Details/1016",
+      "extra": [
+        [
+          "全國庫存篩選",
+          "https://www.cycly.co.jp/"
+        ],
+        [
+          "免稅名錄僅線索",
+          "https://www.taxfreeshops.jp/ja/shop/5029"
+        ],
+        [
+          "Rakuten店取限制",
+          "https://www.rakuten.ne.jp/gold/cycly/qa/"
+        ],
+        [
+          "公路車庫存",
+          "https://www.cycly.co.jp/Shop/Browse?CatID=001001001&IsPageing=0&PageIndex=1"
+        ]
+      ],
+      "ll": [
+        35.666,
+        139.59252
+      ],
+      "positionNote": "町丁目代表點（非店門口）；同街區店可能共用點位，入口請用Google Maps",
+      "positionSource": "https://github.com/geolonia/japanese-addresses",
+      "bikes": [],
+      "taxConfirmed": false
+    },
+    {
+      "rank": 11,
+      "name": "Buychari 有明ガーデン",
+      "kind": "中古／指定Canyon才去",
+      "why": "有你保留的Canyon，可看後下叉傷況。和現有觀光線不同方向，且商場店家頁未列免稅，單為挖寶不如AKIBA。",
+      "candidates": "JP-Claude-20261108-001 Canyon Ultimate CF SL8 Aero 2022／S，¥440,000；依11/10 Claude。",
+      "address": "東京都江東区有明2-1-7 有明ガーデン1F（Buychari官網地址）",
+      "access": "有明テニスの森約3分／國際展示場約7分；飯店規劃預留45–65分",
+      "phone": "03-6380-7637",
+      "hours": "10:00–20:00；原則全年營業，設施休館除外",
+      "open4": "17○／18○／19○／20○",
+      "tax": "有明 Garden 該店頁明列免稅なし。AKIBA等其他店另查。",
+      "packing": "官方國內配送政策不提供為縮小尺寸而拆解；航空打包、費用待店核。",
+      "visit": "只在Canyon經台灣比價和傷況照片後仍是前兩名才安排。否則不加進四天基本路線。",
+      "minutes": "45–60分",
+      "official": "https://ariake.shopping-sumitomo-rd.com/eng/shop/992/",
+      "extra": [
+        [
+          "官方門市",
+          "https://buychari.com/pages/shop"
+        ],
+        [
+          "配送",
+          "https://buychari.com/pages/shipping-charges"
+        ]
+      ],
+      "ll": [
+        35.636322,
+        139.789974
+      ],
+      "positionNote": "町丁目代表點（非店門口）；同街區店可能共用點位，入口請用Google Maps",
+      "positionSource": "https://github.com/geolonia/japanese-addresses",
+      "bikes": [
+        {
+          "name": "JP-Claude-20261108-001CANYON ULTIMATE CF SL 8 DISC AERO（Ultegra Di2 R8170 12s）2022尺寸 S (ST 494 / TT 543; 適応身長 172-178)",
+          "price": "含稅 ¥440,000 / NT$92,664退稅條件試算 ¥400,000 / NT$84,240",
+          "url": "https://buychari.com/products/rc_itb3tdzoivaw_nebe"
+        }
+      ],
+      "taxConfirmed": false
+    },
+    {
+      "rank": 12,
+      "name": "BICI AMORE 立川",
+      "kind": "中古／Emonda指定原店；可轉店就不遠征",
+      "why": "Emonda原庫存店，但和八王子不在同一個步行區。若能先轉南麻布，省去來回；若無法轉且車成為首選，再直接約原店。",
+      "candidates": "JP-Claude-20261110-001 Emonda SL6 Pro Di2 2023／54（Gemini006同台）；¥319,000。Gemini008 Scultura僅集合線索，不能當此店已核現貨。",
+      "address": "東京都立川市柴崎町2-2-19 カトービル1F",
+      "access": "立川站周邊；飯店規劃預留65–90分",
+      "phone": "042-512-7035",
+      "hours": "11:00–19:00；預約可看時段依商品頁11:00–18:00；週三、四休",
+      "open4": "17須約／18休／19休／20須約",
+      "tax": "整車免稅未知；不可套車衣店公告。",
+      "packing": "倉庫預約；可申請轉店，完成車另有¥8,000政策樣本，本車和檔期待核。航空箱與打包費未核。",
+      "visit": "若20去，最好已確認車況、價格與包裝，直接看車／取車；不要將17離團接點未定時硬排此站。",
+      "minutes": "45–60分",
+      "official": "https://web-store.biciamore.jp/pages/shops",
+      "extra": [
+        [
+          "官方立川開店／地址",
+          "https://biciamore.jp/news/new-open-tachikawa/"
+        ],
+        [
+          "來店政策",
+          "https://web-store.biciamore.jp/pages/faq"
+        ]
+      ],
+      "ll": [
+        35.694938,
+        139.40869
+      ],
+      "positionNote": "町丁目代表點（非店門口）；同街區店可能共用點位，入口請用Google Maps",
+      "positionSource": "https://github.com/geolonia/japanese-addresses",
+      "bikes": [
+        {
+          "name": "JP-Claude-20261110-001TREK EMONDA SL6 PRO DI2 2023（105 Di2 R7170 12s）尺寸 54 (ST 496 / TT 543 / HT 131; 適応身長 172-178；サドル高調整幅 675-730mm)",
+          "price": "刊登價 ¥319,000 / NT$67,181退稅條件試算 ¥290,000 / NT$61,074免稅資格／費用未確認",
+          "url": "https://web-store.biciamore.jp/products/bkk579_tachikawa"
+        }
+      ],
+      "taxConfirmed": false
+    },
+    {
+      "rank": 13,
+      "name": "BICI AMORE 浦和",
+      "kind": "中古／高價參考，低優先",
+      "why": "你保留Madone是欣賞與參考，自己已註記大概不買；沒有其他明確車款，不值得為此遠征埼玉。",
+      "candidates": "JP-Claude-20261102-064 Madone SLR9 Gen8 2025／M；¥880,000，參考用。",
+      "address": "埼玉県さいたま市浦和区東岸町9-20 新山ビル1F",
+      "access": "浦和周邊；飯店規劃預留60–85分",
+      "phone": "048-884-0220",
+      "hours": "11:00–19:00；週三、四休；預約",
+      "open4": "17須約／18休／19休／20須約",
+      "tax": "整車免稅未知。",
+      "packing": "航空打包未知；能轉至南麻布時先看成本與到貨日，不為看參考車付運費。",
+      "visit": "四天基本路線略過；只有成為真實購買候選才重排。",
+      "minutes": "若特約45分",
+      "official": "https://web-store.biciamore.jp/pages/shops",
+      "extra": [
+        [
+          "官方各店營業",
+          "https://biciamore.jp/parts_lp/"
+        ]
+      ],
+      "ll": [
+        35.854235,
+        139.662802
+      ],
+      "positionNote": "町丁目代表點（非店門口）；同街區店可能共用點位，入口請用Google Maps",
+      "positionSource": "https://github.com/geolonia/japanese-addresses",
+      "bikes": [
+        {
+          "name": "JP-Claude-20261102-064TREK MADONE SLR9 GEN8 2025（Dura-Ace Di2 R9270）尺寸 M (ST 476 / TT 545; 適応身長 166-177cm)",
+          "price": "含稅 ¥880,000 / NT$185,328退稅條件試算 ¥799,999 / NT$168,480",
+          "url": "https://web-store.biciamore.jp/products/bkk518_urawa"
+        }
+      ],
+      "taxConfirmed": false
+    },
+    {
+      "rank": 14,
+      "name": "BICI AMORE 横浜",
+      "kind": "中古／舊圈煞參考，低優先",
+      "why": "保留的Look雖有吸引力，但你已註記購買機率低；跨到橫濱的時間成本高，不符合這四天的優先目標。",
+      "candidates": "JP-Claude-20261106-016 LOOK785 Huez RS 2018／M；僅先保留。",
+      "address": "神奈川県横浜市中区山下町106-3",
+      "access": "橫濱山下町；飯店規劃預留75–105分",
+      "phone": "045-263-8195",
+      "hours": "11:00–19:00；週三、四休；預約",
+      "open4": "17須約／18休／19休／20須約",
+      "tax": "整車免稅未知。",
+      "packing": "航空打包未知；東京取車不可自行推定可安排。",
+      "visit": "基本行程略過；除非已決定購買，不另開橫濱日。",
+      "minutes": "若特約45分",
+      "official": "https://web-store.biciamore.jp/pages/shops",
+      "extra": [
+        [
+          "營業／預約",
+          "https://biciamore.jp/parts_lp/"
+        ]
+      ],
+      "ll": [
+        35.446005,
+        139.656952
+      ],
+      "positionNote": "町丁目代表點（非店門口）；同街區店可能共用點位，入口請用Google Maps",
+      "positionSource": "https://github.com/geolonia/japanese-addresses",
+      "bikes": [
+        {
+          "name": "JP-Claude-20261106-016LOOK 785 HUEZ RS 2018尺寸 M (ST 530 / TT 555.7 / HT 161; 適応身長 177-182)",
+          "price": "含稅 ¥231,000 / NT$48,649退稅條件試算 ¥209,999 / NT$44,226",
+          "url": "https://web-store.biciamore.jp/products/bkk453_yokohama"
+        }
+      ],
+      "taxConfirmed": false
+    },
+    {
+      "rank": 15,
+      "name": "TREK Bicycle 六本木 Hills",
+      "kind": "Trek 直營｜先問調店",
+      "why": "市區優先。拿宇都宮試乘車資料詢問調店，再看 ML 展示或舊年式。",
+      "candidates": "宇都宮 Madone SLR 7 Gen 8 M・Navy Smoke 為調店詢問線索；六本木未確認到貨。",
+      "address": "東京都港区六本木6-15-1 六本木ヒルズ",
+      "access": "六本木站；樓層依商場店頁導航",
+      "phone": "03-6303-1009",
+      "hours": "以商場當日資訊為準",
+      "closedDays": null,
+      "tax": "六本木 Hills 官方店頁列可在店內辦免稅；指定調店試乘車是否按原特價辦退款及費用須書面確認。",
+      "taxConfirmed": true,
+      "packing": "先問是否能裝箱、拆卸項目、外箱長寬高、總重、費用及11/20前交付。",
+      "visit": "先看線上庫存；有合尺寸、明確售價與交車日才排。",
+      "minutes": "依看車及交付安排",
+      "official": "https://www.roppongihills.com/gourmet_shops/0058.html",
+      "extra": [
+        [
+          "直營試乘車／特價",
+          "https://www.trekbikes.com/jp/ja_JP/P1-SpecialPrice/"
+        ],
+        [
+          "Trek 書面詢問表單",
+          "https://forms.cloud.microsoft/r/9GnY3bHksL"
+        ]
+      ],
+      "booking": false,
+      "ll": [
+        35.660329,
+        139.730276
+      ],
+      "positionNote": "町丁目代表點，入口請用 Google Maps。",
+      "positionSource": "https://github.com/geolonia/japanese-addresses"
+    },
+    {
+      "rank": 16,
+      "name": "TREK Bicycle 宇都宮",
+      "kind": "Trek 直營｜跨縣遠征",
+      "why": "先用官方表單問能否調六本木。只有現貨、尺寸、總價、包裝和日期談妥，而且東京無法取車時才去宇都宮。",
+      "candidates": "JP-GPT-20261112-001｜TREK Madone SLR 7 Gen 8 試乘車｜¥840,000（日本建議價 ¥1,400,000 的六折）。M・Navy Smoke；170 mm 曲柄、Aeolus Pro 51、Trek Aero RSL 一體把 420×90 mm；官網列 7.31 kg。同款標準為 Ultegra Di2 2×12，試乘實車、磨耗和功率計待核。 原廠同款表 M：162–173 cm／胯下 76–81 cm；ML：173–179 cm／81–84 cm。以身高與胯下對照 M／ML；M 要核實座高上限、墊圈與把位再決定。 11 月官網列宇都宮、新潟、北九州。即時現貨、試乘車況、調店費、六本木能否承接特價與退款、11/20 前裝箱交車皆待店家回覆。專用表單只詢價，不受理保留。",
+      "address": "栃木県宇都宮市駒生2-15-8",
+      "access": "從東京搭新幹線到宇都宮後另接市區交通；用導航核當日班次。",
+      "phone": "028-612-7102",
+      "hours": "11:00–19:00；週二休",
+      "closedDays": [
+        2
+      ],
+      "tax": "未查到該門市公路成車退款的公開證據，先用含稅價。",
+      "taxConfirmed": false,
+      "packing": "先問是否能裝箱、拆卸項目、外箱長寬高、總重、費用及11/20前交付。",
+      "visit": "先看線上庫存；有合尺寸、明確售價與交車日才排。",
+      "minutes": "依看車及交付安排",
+      "official": "https://www.trekbikes.com/jp/ja_JP/retail/utsunomiya/",
+      "extra": [
+        [
+          "直營試乘車／特價",
+          "https://www.trekbikes.com/jp/ja_JP/P1-SpecialPrice/"
+        ],
+        [
+          "Trek 書面詢問表單",
+          "https://forms.cloud.microsoft/r/9GnY3bHksL"
+        ],
+        [
+          "Trek 同款尺寸與幾何",
+          "https://www.trekbikes.com/ca/en_CA/bikes/road-bikes/performance-road-bikes/madone/madone-slr/madone-slr-7-gen-8/a/5329984/"
+        ],
+        [
+          "台灣同款新品參考（售完）",
+          "https://www.sportmania.asia/zh-hant/products/madone-slr-7-gen-8-2"
+        ]
+      ],
+      "booking": false,
+      "bikes": [
+        {
+          "name": "TREK Madone SLR 7 Gen 8 試乘車・M",
+          "price": "¥840,000｜現貨待確認",
+          "url": "https://www.trekbikes.com/jp/ja_JP/P1-SpecialPrice/"
+        }
+      ],
+      "ll": [
+        36.574982,
+        139.851546
+      ],
+      "positionNote": "町丁目代表點，入口請用 Google Maps。",
+      "positionSource": "https://github.com/geolonia/japanese-addresses"
+    },
+    {
+      "rank": 17,
+      "name": "Buychari 宇都宮 Factory Store",
+      "kind": "中古｜僅指定車才加看",
+      "why": "與 Trek 宇都宮是不同地址。只有已確認兩家都有指定車並能交付才考慮同趟。",
+      "candidates": "既有 Colnago V3、Bianchi Specialissima 線索仍需重新核實。",
+      "address": "栃木県宇都宮市インターパーク6-2-9",
+      "access": "宇都宮上三川 IC 旁；以當日導航估算兩店交通。",
+      "phone": "028-666-7355",
+      "hours": "11:00–19:00；週二、三休（假日例外）",
+      "closedDays": [
+        2,
+        3
+      ],
+      "tax": "未查到該門市公路成車退款的公開證據，先用含稅價。",
+      "taxConfirmed": false,
+      "packing": "先問是否能裝箱、拆卸項目、外箱長寬高、總重、費用及11/20前交付。",
+      "visit": "先看線上庫存；有合尺寸、明確售價與交車日才排。",
+      "minutes": "依看車及交付安排",
+      "official": "https://kaitori.buychari.com/shop/utsunomiya/",
+      "extra": [
+        [
+          "書面詢問",
+          "mailto:utsunomiya@buychari.com"
+        ],
+        [
+          "門市與郵件",
+          "https://buychari.com/pages/shop"
+        ]
+      ],
+      "booking": false,
+      "ll": [
+        36.487956,
+        139.906514
+      ],
+      "positionNote": "町丁目代表點，入口請用 Google Maps。",
+      "positionSource": "https://github.com/geolonia/japanese-addresses"
+    },
+    {
+      "rank": 18,
+      "name": "LORO CYCLEWORKS TOKYO 日本橋久松町",
+      "kind": "Trek 公路車｜順路備選",
+      "why": "LORO 多數門市以折疊車、小徑車為主。這個日本橋久松町分店由官網明列兼售 Trek 公路車；只有問到對的尺寸與價格才排。",
+      "candidates": "未確認本次合尺寸現貨。",
+      "address": "東京都中央区日本橋久松町11-6",
+      "access": "馬喰横山步行約3分；東日本橋約8分。",
+      "phone": "03-6661-1382",
+      "hours": "11:00–19:00；週四休",
+      "closedDays": [
+        4
+      ],
+      "tax": "集團公告全店接上11/1新制；該 Trek 成車及促銷價適用需由本店確認。",
+      "taxConfirmed": true,
+      "packing": "先問是否能裝箱、拆卸項目、外箱長寬高、總重、費用及11/20前交付。",
+      "visit": "先看線上庫存；有合尺寸、明確售價與交車日才排。",
+      "minutes": "依看車及交付安排",
+      "official": "https://loro.co.jp/loro-trek",
+      "extra": [
+        [
+          "門市郵件",
+          "mailto:lb-nihonbashi@loro.co.jp"
+        ],
+        [
+          "新制退款公告",
+          "https://loro.co.jp/blog/news/12978.html?tag_id=16"
+        ]
+      ],
+      "booking": false,
+      "ll": [
+        35.689545,
+        139.784211
+      ],
+      "positionNote": "町丁目代表點，入口請用 Google Maps。",
+      "positionSource": "https://github.com/geolonia/japanese-addresses"
+    },
+    {
+      "rank": 19,
+      "name": "LORO bicycles 駒澤公園",
+      "kind": "Trek 專門店｜只看合尺寸特價",
+      "why": "這是 LORO 的 Trek 門市。先看店家新公告，再用郵件問 Madone SL5/6、Domane SL5/6 的展示與舊年式。",
+      "candidates": "未確認本次合尺寸現貨。",
+      "address": "東京都世田谷区深沢2-19-20 クレードル駒沢公園105",
+      "access": "駒沢大学步行約15分；可查巴士到学芸附属中学校。",
+      "phone": "03-6809-8292",
+      "hours": "11:00–19:00；週四休",
+      "closedDays": [
+        4
+      ],
+      "tax": "集團公告全店接上11/1新制；指定成車與折扣能否一起辦仍問店。",
+      "taxConfirmed": true,
+      "packing": "先問是否能裝箱、拆卸項目、外箱長寬高、總重、費用及11/20前交付。",
+      "visit": "先看線上庫存；有合尺寸、明確售價與交車日才排。",
+      "minutes": "依看車及交付安排",
+      "official": "https://loro.co.jp/loro-trek",
+      "extra": [
+        [
+          "門市郵件",
+          "mailto:lb-komazawa@loro.co.jp"
+        ],
+        [
+          "駒澤門市部落格",
+          "https://lorobicycles-komazawa.blog.jp/"
+        ],
+        [
+          "新制退款公告",
+          "https://loro.co.jp/blog/news/12978.html?tag_id=16"
+        ]
+      ],
+      "booking": false,
+      "ll": [
+        35.621115,
+        139.662893
+      ],
+      "positionNote": "町丁目代表點，入口請用 Google Maps。",
+      "positionSource": "https://github.com/geolonia/japanese-addresses"
+    },
+    {
+      "rank": 20,
+      "name": "Specialized 新宿直營",
+      "kind": "新車｜查 Outlet 價及店庫",
+      "why": "先比 Aethos、Tarmac 的舊年式；網站同款優惠能否在門市付款與退款要確認。",
+      "candidates": "未確認本次合尺寸現貨。",
+      "address": "東京都新宿区西新宿8-16-2 新宿グランドウィング1F",
+      "access": "西新宿；與 CPO 不同地址。",
+      "phone": "03-5332-5900",
+      "hours": "店頁11:00–20:00；週三休，另有官網名單列週四休，週四出門前核",
+      "closedDays": [
+        3
+      ],
+      "tax": "品牌官方舊制公告明列自行車與此分店；11月新制、Outlet價格適用及費用待核。",
+      "taxConfirmed": true,
+      "packing": "先問是否能裝箱、拆卸項目、外箱長寬高、總重、費用及11/20前交付。",
+      "visit": "先看線上庫存；有合尺寸、明確售價與交車日才排。",
+      "minutes": "依看車及交付安排",
+      "official": "https://specialized-store.jp/shinjuku/",
+      "extra": [
+        [
+          "門市郵件",
+          "mailto:specialized.shinjuku@specialized.com"
+        ],
+        [
+          "官方 Outlet",
+          "https://www.specialized-onlinestore.jp/shop/e/eOutlet"
+        ],
+        [
+          "門市庫存",
+          "https://www.specialized-onlinestore.jp/shop/retailer/retailerdetail.aspx?s_dealer=454105"
+        ],
+        [
+          "免稅公告",
+          "https://specialized-store.jp/2022/09/29/5132/information_taxfree/"
+        ]
+      ],
+      "booking": false,
+      "ll": [
+        35.695779,
+        139.692462
+      ],
+      "positionNote": "町丁目代表點，入口請用 Google Maps。",
+      "positionSource": "https://github.com/geolonia/japanese-addresses"
+    },
+    {
+      "rank": 21,
+      "name": "Specialized CPO 西新宿",
+      "kind": "認定中古｜完全預約",
+      "why": "有特定 Tarmac、Aethos 或 Roubaix 才預約。可看實車和跨坐，FAQ 列不試騎、不保留、不議價。",
+      "candidates": "未確認本次合尺寸現貨。",
+      "address": "東京都新宿区西新宿6-26-3",
+      "access": "西新宿站步行約5分。",
+      "phone": "03-6258-5877",
+      "hours": "12:00–19:00；最後受付18:00；週三、四休",
+      "closedDays": [
+        3,
+        4
+      ],
+      "tax": "查到免稅名錄線索；中古整車與11月新制仍未取得門市公告。",
+      "taxConfirmed": false,
+      "packing": "先問是否能裝箱、拆卸項目、外箱長寬高、總重、費用及11/20前交付。",
+      "visit": "先看線上庫存；有合尺寸、明確售價與交車日才排。",
+      "minutes": "依看車及交付安排",
+      "official": "https://specialized-cpo.com/pages/shoplist",
+      "extra": [
+        [
+          "公路車庫存",
+          "https://specialized-cpo.com/collections/roadbike"
+        ],
+        [
+          "書面詢問",
+          "https://specialized-cpo.com/pages/contact"
+        ],
+        [
+          "交付 FAQ",
+          "https://specialized-cpo.com/pages/faq"
+        ]
+      ],
+      "booking": true,
+      "ll": [
+        35.693426,
+        139.690969
+      ],
+      "positionNote": "町丁目代表點，入口請用 Google Maps。",
+      "positionSource": "https://github.com/geolonia/japanese-addresses"
+    },
+    {
+      "rank": 22,
+      "name": "CycleTrip BASE 秋葉原",
+      "kind": "前租賃車｜市區順訪",
+      "why": "切秋葉原及碳纖，和上野／秋葉原一組。商品頁可問預約看車；有些車還在出租。",
+      "candidates": "刊登曾列 SuperSix EVO 3 105 Di2 54 ¥450,000；取車須核租期與店庫。",
+      "address": "東京都千代田区神田須田町2-9 宮川ビル1F",
+      "access": "秋葉原站約4分；岩本町站約1分。",
+      "phone": "050-5530-5790",
+      "hours": "09:30–17:30；休業另核",
+      "closedDays": null,
+      "tax": "未查到該門市公路成車退款的公開證據，先用含稅價。",
+      "taxConfirmed": false,
+      "packing": "商品頁列先聯絡可安排免費門市取車。先問是否能裝箱、拆卸項目、外箱長寬高、總重、費用及11/20前交付。",
+      "visit": "先看線上庫存；有合尺寸、明確售價與交車日才排。",
+      "minutes": "依看車及交付安排",
+      "official": "https://cycletrip.base.shop/categories/7070143",
+      "extra": [
+        [
+          "碳纖公路車",
+          "https://cycletrip.base.shop/categories/5673716"
+        ],
+        [
+          "官網與聯絡",
+          "https://cycletrip.base.shop/"
+        ],
+        [
+          "SuperSix EVO 3 54 刊登",
+          "https://cycletrip.base.shop/items/146493981"
+        ]
+      ],
+      "booking": false,
+      "ll": [
+        35.695815,
+        139.773059
+      ],
+      "positionNote": "町丁目代表點，入口請用 Google Maps。",
+      "positionSource": "https://github.com/geolonia/japanese-addresses"
+    },
+    {
+      "rank": 23,
+      "name": "Y’s Road 新橋",
+      "kind": "多品牌｜Bianchi／Pinarello",
+      "why": "Bianchi 新橋是這家店內專區，和 Pinarello 專區一起看；鎖定店頭出清和即納尺寸。",
+      "candidates": "未確認本次合尺寸現貨。",
+      "address": "東京都港区新橋4-11-1 A-PLACE新橋 B1F・1F",
+      "access": "新橋站步行約3分。",
+      "phone": "",
+      "hours": "以官方店頁為準",
+      "closedDays": null,
+      "tax": "分店官網列免稅對應。結帳前出示優惠券，先確認特價品能否併用及預計退款。",
+      "taxConfirmed": true,
+      "packing": "先問是否能裝箱、拆卸項目、外箱長寬高、總重、費用及11/20前交付。",
+      "visit": "先看線上庫存；有合尺寸、明確售價與交車日才排。",
+      "minutes": "依看車及交付安排",
+      "official": "https://portal.ysroad.co.jp/shop/kanto/shimbashi/",
+      "extra": [
+        [
+          "Bianchi 新橋專區",
+          "https://www.bianchi-store.jp/stores/shinbashi/"
+        ],
+        [
+          "旅客折扣券",
+          "https://tokyo-newtravel.com/ys-road/"
+        ]
+      ],
+      "booking": false,
+      "ll": [
+        35.664373,
+        139.755933
+      ],
+      "positionNote": "町丁目代表點，入口請用 Google Maps。",
+      "positionSource": "https://github.com/geolonia/japanese-addresses"
+    },
+    {
+      "rank": 24,
+      "name": "Cycle Pine",
+      "kind": "多品牌｜出清價需詢問",
+      "why": "先查成車／車架清單，Colnago V4、Trek 和 Pinarello 有實際尺寸；促銷標價請書面索取。",
+      "candidates": "Colnago V4 機械105 485S 官網曾列 ¥513,700；特價待問。",
+      "address": "東京都世田谷区松原3-41-16 オパスワン1・2F",
+      "access": "京王線下高井戸一帶；依店家交通頁。",
+      "phone": "",
+      "hours": "以店家營業日曆為準",
+      "closedDays": null,
+      "tax": "未查到該門市公路成車退款的公開證據，先用含稅價。",
+      "taxConfirmed": false,
+      "packing": "先問是否能裝箱、拆卸項目、外箱長寬高、總重、費用及11/20前交付。",
+      "visit": "先看線上庫存；有合尺寸、明確售價與交車日才排。",
+      "minutes": "依看車及交付安排",
+      "official": "https://cyclepine.com/access/",
+      "extra": [
+        [
+          "店頭成車及車架",
+          "https://cyclepine.stores.jp/?category_id=66df9a9260b2032858e77348"
+        ],
+        [
+          "庫存詢問",
+          "https://cyclepine.com/stock.html"
+        ]
+      ],
+      "booking": false,
+      "ll": [
+        35.665409,
+        139.644312
+      ],
+      "positionNote": "町丁目代表點，入口請用 Google Maps。",
+      "positionSource": "https://github.com/geolonia/japanese-addresses"
+    },
+    {
+      "rank": 25,
+      "name": "Pedalist Pinarello Shop 青山",
+      "kind": "Pinarello｜青山順路",
+      "why": "和 Narushima 同區。先開庫存分清成車及車架，鎖定實際尺寸和組裝交期。",
+      "candidates": "未確認本次合尺寸現貨。",
+      "address": "東京都港区南青山2-13-16 オカダビル1F/B1F",
+      "access": "外苑前／青山一丁目。",
+      "phone": "03-6910-5976",
+      "hours": "平日12:00–20:00，週末10:00–19:00；週二、三休",
+      "closedDays": [
+        2,
+        3
+      ],
+      "tax": "未查到該門市公路成車退款的公開證據，先用含稅價。",
+      "taxConfirmed": false,
+      "packing": "先問是否能裝箱、拆卸項目、外箱長寬高、總重、費用及11/20前交付。",
+      "visit": "先看線上庫存；有合尺寸、明確售價與交車日才排。",
+      "minutes": "依看車及交付安排",
+      "official": "https://pedalist.tokyo/product/",
+      "extra": [
+        [
+          "店家官網",
+          "https://pedalist.tokyo/"
+        ]
+      ],
+      "booking": false,
+      "ll": [
+        35.667311,
+        139.721885
+      ],
+      "positionNote": "町丁目代表點，入口請用 Google Maps。",
+      "positionSource": "https://github.com/geolonia/japanese-addresses"
+    },
+    {
+      "rank": 26,
+      "name": "Cycly 國立",
+      "kind": "中古｜先從網站選分店",
+      "why": "網站按販售中、門市、身高和關鍵字找；先有指定車再去國立。",
+      "candidates": "未確認本次合尺寸現貨。",
+      "address": "東京都国立市青柳2-18-3",
+      "access": "國立市青柳；依門市地圖查轉乘。",
+      "phone": "",
+      "hours": "以門市頁為準",
+      "closedDays": null,
+      "tax": "未查到該門市公路成車退款的公開證據，先用含稅價。",
+      "taxConfirmed": false,
+      "packing": "楽天 FAQ 明載楽天單不支援店取；向實際持有門市問店內買車與包裝。",
+      "visit": "先看線上庫存；有合尺寸、明確售價與交車日才排。",
+      "minutes": "依看車及交付安排",
+      "official": "https://www.cycly.co.jp/ShopInfo/Details/1008",
+      "extra": [
+        [
+          "公路車庫存",
+          "https://www.cycly.co.jp/Shop/Browse?CatID=001001001&IsPageing=0&PageIndex=1"
+        ]
+      ],
+      "booking": false,
+      "ll": [
+        35.682071,
+        139.42348
+      ],
+      "positionNote": "町丁目代表點，入口請用 Google Maps。",
+      "positionSource": "https://github.com/geolonia/japanese-addresses"
+    },
+    {
+      "rank": 27,
+      "name": "Bianchi Bike Store 橫濱",
+      "kind": "Bianchi｜有報價才跨區",
+      "why": "橫濱11/8庫存有 Oltre XR3 Disc Ultegra Di2 55，店頭特價未公開。",
+      "candidates": "未確認本次合尺寸現貨。",
+      "address": "神奈川県横浜市中区海岸通5-25-2-12",
+      "access": "馬車道站附近，依官方交通頁。",
+      "phone": "045-264-4057",
+      "hours": "以門市頁為準",
+      "closedDays": null,
+      "tax": "未查到該門市公路成車退款的公開證據，先用含稅價。",
+      "taxConfirmed": false,
+      "packing": "先問是否能裝箱、拆卸項目、外箱長寬高、總重、費用及11/20前交付。",
+      "visit": "先看線上庫存；有合尺寸、明確售價與交車日才排。",
+      "minutes": "依看車及交付安排",
+      "official": "https://www.bianchi-store.jp/stores/yokohama/",
+      "extra": [
+        [
+          "11/08門市庫存",
+          "https://www.bianchi-store.jp/news/21420/"
+        ],
+        [
+          "品牌門市庫存",
+          "https://www.bianchi-store.jp/stock/"
+        ]
+      ],
+      "booking": false,
+      "ll": [
+        35.451842,
+        139.637483
+      ],
+      "positionNote": "町丁目代表點，入口請用 Google Maps。",
+      "positionSource": "https://github.com/geolonia/japanese-addresses"
+    },
+    {
+      "rank": 28,
+      "name": "Y’s Road 越谷 LakeTown Outlet",
+      "kind": "郊區 Outlet｜具體尺寸才去",
+      "why": "比市區遠。先由官方庫存查指定車與尺寸，再問店頭限定價和出發前能否裝箱。",
+      "candidates": "未確認本次合尺寸現貨。",
+      "address": "埼玉県越谷市レイクタウン4-1-1 LakeTown Outlet",
+      "access": "JR 越谷レイクタウン站。",
+      "phone": "",
+      "hours": "10:00–20:00；依設施公告",
+      "closedDays": [],
+      "tax": "分店官網列免稅對應；新制退款、個別Outlet價及券適用請於結帳前確認。",
+      "taxConfirmed": true,
+      "packing": "先問是否能裝箱、拆卸項目、外箱長寬高、總重、費用及11/20前交付。",
+      "visit": "先看線上庫存；有合尺寸、明確售價與交車日才排。",
+      "minutes": "依看車及交付安排",
+      "official": "https://portal.ysroad.co.jp/shop/kanto/koshigaya/",
+      "extra": [
+        [
+          "商場店頁",
+          "https://laketown-outlet.jp/shop/detail/252/"
+        ],
+        [
+          "旅客折扣券",
+          "https://tokyo-newtravel.com/ys-road/"
+        ]
+      ],
+      "booking": false,
+      "ll": [
+        35.879062,
+        139.824537
+      ],
+      "positionNote": "町丁目代表點，入口請用 Google Maps。",
+      "positionSource": "https://github.com/geolonia/japanese-addresses"
+    },
+    {
+      "rank": 29,
+      "name": "サイクルショップよしだ 吉田ルーム",
+      "kind": "木場｜小徑及鈦車為主",
+      "why": "官方有免稅頁與店頭庫存入口。公路成車非本趟主力；有想看的實物再預約。",
+      "candidates": "未確認本次合尺寸現貨。",
+      "address": "東京都江東区木場2-5-3",
+      "access": "東京 Metro 木場站。",
+      "phone": "",
+      "hours": "預約制；依官方預約頁",
+      "closedDays": null,
+      "tax": "店家列免稅及3%手續費；費用基礎、11月新制及指定整車待核。",
+      "taxConfirmed": true,
+      "packing": "先問是否能裝箱、拆卸項目、外箱長寬高、總重、費用及11/20前交付。",
+      "visit": "先看線上庫存；有合尺寸、明確售價與交車日才排。",
+      "minutes": "依看車及交付安排",
+      "official": "https://www.yoshidaroom.com/東京店/tax-free/",
+      "extra": [
+        [
+          "店頭庫存",
+          "https://www.yoshidaroom.com/top/zaiko/"
+        ]
+      ],
+      "booking": true,
+      "ll": [
+        35.67058,
+        139.804051
+      ],
+      "positionNote": "町丁目代表點，入口請用 Google Maps。",
+      "positionSource": "https://github.com/geolonia/japanese-addresses"
+    }
+  ],
+  "plans": [
+    [
+      "11/17（二）",
+      "離團＋入住；紀尾井町",
+      "基本不遠征。先確認18日兩家Y’s成車與交付。",
+      "若南麻布指定車已預約且離團後可趕上，才替換下午部分行程。",
+      "BICI南麻布／立川／浦和／橫濱皆只有17或20能看。離團地點、時間、行李取出仍待確定。"
+    ],
+    [
+      "11/18（三）",
+      "主要新車挖寶日",
+      "10:00 池袋チャーリー（60–75分）→午餐／移動→12:00–13:30 新宿本館。下午比較、核退稅／包裝，至多2家主要店。",
+      "沒有合適車就回原東京站／日本橋備案；葛西只在預篩至少2台、確認能看後另排。",
+      "BICI全體及Firstbikes休；なるしま、Cycly世田谷也休。不能照一般「辦事日」去碰運氣。"
+    ],
+    [
+      "11/19（四）",
+      "下北澤；遠征的唯一可交換日",
+      "保留下北澤；有具體折扣可順加なるしま（非近鄰步行點）。",
+      "ORCA實車照片／報價／20前交付先談妥才用半天八王子取代下北澤；或已預篩的葛西／Cycly擇一，不全排。",
+      "Firstbikes12時開；BICI仍休。11/19前最好選定購買店並拿到打包時間。"
+    ],
+    [
+      "11/20（五）",
+      "谷中＋上野／AKIBA；已談妥車的取件日",
+      "若不買BICI：上午谷中→12:00 Y’s上野本館→有餘裕短看アサゾー→AKIBA看指定車；按已約時間取車。",
+      "若BICI是主選：先約南麻布指定看車／取車，減少或取消谷中與泛逛；不將南麻布＋八王子＋上野全塞同一天。",
+      "最晚下午完成成交／交車與打包，晚間清點。最後一天只接受已整備、確認可交付的車，不賭新調車與組裝。"
+    ]
+  ],
+  "webs": [
+    [
+      "A1",
+      "Cycle Paradise",
+      "新增優先中古來源",
+      "跨品牌完成車庫存；官方提到整備後陸續上網。先篩品牌／尺寸／價，排除售完與JUNK。",
+      "現場可能看到待上架，但不能推定可售。網購／展示／免稅及交期先核。",
+      "https://www.cypara.com/"
+    ],
+    [
+      "A2",
+      "Cycly サイクリー",
+      "新增優先中古跨店篩選",
+      "首頁可按店、品牌、預算、販售中、新著Sale及新品／中古篩選；先選完整成車。",
+      "不是即時庫存保證；Rakuten訂單無店取，別先下單再要求門市免稅。",
+      "https://www.cycly.co.jp/"
+    ],
+    [
+      "A3",
+      "SHIFTA",
+      "新增跨店實庫存入口",
+      "車款頁「このモデルの在庫がある店舗を探す」，可依東京／附近距離及品牌找獨立經銷商。",
+      "只涵蓋平台刊登品牌／車款；不是全日本庫存。店頭價、平台價與優惠不同，且出現過已閉店Crown舊資料，出發前查官網。",
+      "https://shifta.jp/dealers/"
+    ],
+    [
+      "A4",
+      "Y’s Road ONLINE＋各店Blog",
+      "既有來源，但要改搜尋方式",
+      "同時查Outlet、店家Blog與門市詢價；官方FAQ承認門市有網上沒列的商品／店限定低價。",
+      "本輪部分網址轉緊急維護頁，店照常；庫存非即時。關東調車FAQ有區域條件，不代表四天必到。2026 BF日期未獨立核實，不沿用2025舊文。",
+      "https://online.ysroad.co.jp/shop/l/loutlet/?dlink=1"
+    ],
+    [
+      "B1",
+      "Bike Plus",
+      "新增TREK多店促銷／展示車來源",
+      "2026秋季活動到11/29，店頭在庫限；商品可含試乘車註記。原文列車型尺寸與店別，可先找目標。",
+      "活動最大30%不是每台；Google在庫非實庫存，官方FAQ明示可能缺貨。免稅／箱／東京四天交付各店另核。",
+      "https://bike-plus.com/collections/autumn-sale-2026"
+    ],
+    [
+      "B2",
+      "SEO Cycle 各店Blog",
+      "新增獨立門市在庫／特價線索",
+      "官方Blog依門店更新；比全店總庫存弱，但有只有店Blog刊出的特價。先篩公路專門店與關東地址。",
+      "大量通勤車資訊，雜訊高；不能看到一間有貨就推全體系可調。鮫洲有閉店訊息、晴海舊分店已停，必核店況。",
+      "https://www.seocycle.co.jp/master-list.php"
+    ],
+    [
+      "B3",
+      "Firstbikes 在庫表＋Blog",
+      "特定交易與店家特價",
+      "先看53號ORCA；目前官網另有11/9 FELT促銷，屬新增活動，不是折扣已勝過現有候選。",
+      "活動價／現金條件／期限不同；取寄可能無法20日前到。",
+      "https://firstbikes2020.com/contents/category/stock-list/"
+    ],
+    [
+      "B4",
+      "Buychari 全國在庫",
+      "既有中古來源；依店過濾",
+      "新品到貨按日期掃，東京店與關東外分開。AKIBA及有明各有指定保留車。",
+      "不能當成所有分店可調貨或免稅；東京商品化中心不是散客實店。",
+      "https://buychari.com/collections/bike-roadbike"
+    ],
+    [
+      "B5",
+      "BICI AMORE 全國在庫",
+      "既有中古來源；用轉店而非跑全店",
+      "依庫存店、車款、尺寸篩；先看管理編號及實車傷況相簿；可申請轉店。",
+      "預約制、水木休；FAQ不試騎、不議價、不留車。轉店不保證時程。整車免稅不可套車衣店舊公告。",
+      "https://web-store.biciamore.jp/collections/road-bikes"
+    ]
+  ],
+  "notes": [
+    [
+      "排序依據",
+      "優先看：你真的可能買的車／完整成車特價密度→四天內交付與地理順路→免稅證據→打包可行性。沒有用網路星等或虛構分數。排名是本次行程的判斷，非市場成交／服務品質評分。"
+    ],
+    [
+      "免稅證據分級",
+      "Y’s所列分店有官方免稅標示，但新制實務／費用仍核；Cycly只有舊第三方名錄；Buychari有明官方未列；BICI整車／Firstbikes／CycleParadise／なるしま未核。沒有一間在本輪被確認同時承諾「此車可退稅＋指定航空箱尺寸＋20日前完成」。"
+    ],
+    [
+      "航空打包先取得明確報價",
+      "買前問是否提供紙箱和內襯、固定前叉／後三角、防壓傷、拆輪／把手／踏板／座管、碟盤與電變保護，及裝箱後外尺寸／總重、拆裝費、完成日期。還要問海關檢查後是否便於重封。國內宅配包裝不直接等同航空托運。"
+    ],
+    [
+      "2026/11新退款制",
+      "觀光廳：11/1購入起先付含稅，離境持出確認後退款；出境前、託運前辦理，不能先把車交給航空公司再申請檢查。店家必須辦理合規銷售，普通收據不能自己變退款。費用與退款管道依承辦店確認。"
+    ],
+    [
+      "11/21與飯店限制",
+      "回程機場、航班、航廈與時間仍未提供，不套跟團11/17航班；未排最後一晚新訂機場宅配。飯店已回覆一般包裹可代收，但大型自行車箱、尺寸／件數／保管費與推車動線要另外確認。成交後才評估租車／大型計程車，地鐵可達店不等於可攜整車箱搭車。"
+    ],
+    [
+      "出門前縮到6項",
+      "明確個車和尺寸、含稅最終價、現貨和可看時間、新制退稅承辦與費用、20日前整備取車、航空打包含箱尺寸費用。確認兩家主店即可出門，不必等所有店回覆。尚未代你聯絡或預約。"
+    ],
+    [
+      "CROWN GEARS：排除",
+      "官方公告2025/10/31閉店。免稅名錄與SHIFTA舊頁仍可找到，不能列作2026巡店。"
+    ],
+    [
+      "Buychari 東京商品化中心：排除實訪",
+      "官網列非一般銷售／收購店；不把東京商品化中心的網上商品當可去的門市。"
+    ],
+    [
+      "宇都宮：不排四天基本路線",
+      "JP-Claude-20261102-008 ColnagoV3與-010 Bianchi Specialissima在Buychari宇都宮（依11/10 Claude）。你仍保留，但需先確定成為首選才遠征，否則花掉大半天。地圖僅店名搜尋，營業與地址需再核。"
+    ],
+    [
+      "關西：不為現場泛逛改東京行程",
+      "JP-Claude-20261102-032 SL7Expert與JP-Claude-20261110-002 Reacto4000在滋賀大津；REACTO9000（-054）及-052/-049/-046/-051/-047在大阪Kanzaki。先談東京交付，不預設東京分店或能跨店調車。"
+    ],
+    [
+      "郊外Outlet：線上先看，不盲目遠征",
+      "Y’s越谷／入間有Outlet門市，可從官方名單索引；無具體尺寸特價時，這次優先池袋チャーリー和新宿。"
+    ],
+    [
+      "資料時效與限制",
+      "2026/11/10查核官網、門市頁、FAQ及官方商場資料；搜索摘要／舊名錄有明示。營業為正常週曆，沒有承諾臨時休業不變；路程為規劃預留，不是即時班次。未查得的打包／退款／未上架庫存不填成已確認。"
+    ]
+  ]
+};
