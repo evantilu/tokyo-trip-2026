@@ -201,7 +201,7 @@ window.TRIP_SHOPS={
       "open4": "17可先問／18休／19可先問／20可先問",
       "tax": "未確認免稅登錄與承辦；不能以有海外客或能配送推論可退稅。",
       "packing": "官網國內整車配送約¥10,000–20,000；有庫存約3日出貨，不是3日送達。航空箱、打包費、退款方式均未核。",
-      "visit": "優先19（四）中午預約，與下北澤日交換；交通＋看車預留半天。20僅作已談妥後的取車，不作首次探索。",
+      "visit": "11/19（四）若要看 ORCA，先確認報價與實車；安排中午到店，再往 THE BASE 南大澤挖寶。11/20（五）留作已談妥後的取車，THE BASE 週五休。",
       "minutes": "現場60–90分；總半天",
       "official": "https://firstbikes2020.com/contents/category/shop/",
       "extra": [
@@ -216,6 +216,10 @@ window.TRIP_SHOPS={
         [
           "營業日曆",
           "https://firstbikes2020.com/contents/category/calendar/"
+        ],
+        [
+          "去 THE BASE 大眾運輸",
+          "https://www.google.com/maps/dir/?api=1&origin=Firstbikes+International+%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%E6%95%A3%E7%94%B0%E7%94%BA5-11-3&destination=THE+BASE+%E5%8D%97%E5%A4%A7%E6%B2%A2+%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%E6%9D%BE%E6%9C%A863-7&travelmode=transit"
         ]
       ],
       "ll": [
@@ -1438,6 +1442,59 @@ window.TRIP_SHOPS={
       ],
       "positionNote": "地圖圖釘為町丁目代表點，請使用地址導航到店。",
       "positionSource": "https://github.com/geolonia/japanese-addresses"
+    },
+    {
+      "rank": 38,
+      "name": "THE BASE 南大澤／サイクルベースあさひ",
+      "kind": "★ 八王子順訪｜新車與中古公路車",
+      "highlight": true,
+      "why": "Evan 標記的挖寶點。官網可篩選公路車及中古車，另有店頭特價公告。到店先問展示車、試乘退役車與舊年式出清。商品目錄的個別尺寸與現貨仍要確認。",
+      "address": "東京都八王子市松木63-7",
+      "access": "京王堀之內站或南大澤站步行約15分鐘。從 Firstbikes 另安排轉乘。",
+      "phone": "042-670-1780",
+      "hours": "平日12:00–20:00；土日祝10:00–20:00；週五休。",
+      "closedDays": [
+        5
+      ],
+      "localHours": [
+        12,
+        20
+      ],
+      "official": "https://thebase.cb-asahi.co.jp/",
+      "mapsUrl": "https://maps.app.goo.gl/if1C7P8d9A6P64y18?g_st=ic",
+      "extra": [
+        [
+          "官方商品目錄",
+          "https://thebase.cb-asahi.co.jp/product_list/"
+        ],
+        [
+          "中古車公告",
+          "https://thebase.cb-asahi.co.jp/blogs/8806/"
+        ],
+        [
+          "官方交通與營業時間",
+          "https://thebase.cb-asahi.co.jp/access/"
+        ],
+        [
+          "從 Firstbikes 出發",
+          "https://www.google.com/maps/dir/?api=1&origin=Firstbikes+International+%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%E6%95%A3%E7%94%B0%E7%94%BA5-11-3&destination=THE+BASE+%E5%8D%97%E5%A4%A7%E6%B2%A2+%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%85%AB%E7%8E%8B%E5%AD%90%E5%B8%82%E6%9D%BE%E6%9C%A863-7&travelmode=transit"
+        ],
+        [
+          "Yahoo! JAPAN 店家定位",
+          "https://map.yahoo.co.jp/v3/place/7caqmFozVho"
+        ]
+      ],
+      "tax": "未查到此店公開確認可辦旅客免稅／退稅。",
+      "packing": "航空托運裝箱服務、外箱尺寸、費用與交付日期均待核。",
+      "candidates": "尚無已確認符合尺寸與預算的指定成車。",
+      "visit": "若 11/19（四）安排八王子，就和 Firstbikes 同一天逛。11/18 Firstbikes 休，11/20 THE BASE 休。",
+      "ll": [
+        35.6210265,
+        139.39068966
+      ],
+      "positionNote": "Yahoo! JAPAN 店家圖釘；入口可開啟原 Google Maps 標記。",
+      "positionSource": "https://map.yahoo.co.jp/v3/place/7caqmFozVho",
+      "taxConfirmed": false
     }
   ],
   "plans": [
@@ -1459,7 +1516,7 @@ window.TRIP_SHOPS={
       "11/19（四）",
       "下北澤；遠征的唯一可交換日",
       "保留下北澤；有具體折扣可順加なるしま（非近鄰步行點）。",
-      "ORCA實車照片／報價／20前交付先談妥才用半天八王子取代下北澤；或已預篩的葛西／Cycly擇一，不全排。",
+      "ORCA實車照片／報價／20前交付先確認；若去八王子，把 Firstbikes 和 THE BASE 南大澤排成同一趟。",
       "Firstbikes12時開；BICI仍休。11/19前最好選定購買店並拿到打包時間。"
     ],
     [
