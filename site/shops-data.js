@@ -360,24 +360,36 @@ window.TRIP_SHOPS={
     },
     {
       "rank": 9,
-      "name": "なるしまフレンド 神宮",
-      "kind": "新車／專業組車與選車；順路備選",
-      "why": "公路車專門店，官方近期有特價車資訊，值得當多品牌獨立店補充。較像選車／規格諮詢，未證明有比現有候選更甜的完成車，故不排必逛。",
+      "name": "Narushima Friend／なるしまフレンド 神宮店",
+      "kind": "飯店出發優先｜多品牌公路車",
+      "why": "赤坂見附搭銀座線兩站到外苑前，官網列外苑前步行約7分。多品牌公路成車、展示和舊年式，是飯店出發優先挖寶店。和 Trek 青山、Pedalist 同一區。",
       "candidates": "無現有保留個車；Anchor你已排除的個車不因店家促銷自動回來。",
       "address": "東京都渋谷区神宮前3-35-2",
-      "access": "外苑前步行約7分；飯店規劃預留25–40分",
+      "access": "赤坂見附 → 銀座線往澀谷 → 外苑前（2站）→ 步行約7分。",
       "phone": "使用官網CONTACT（未在本輪核得電話，勿猜填）",
       "hours": "12:00–19:30；週二、三休",
       "open4": "17休／18休／19○／20○",
       "tax": "未確認免稅；有英文頁不代表免稅資格。",
       "packing": "有機械／組車服務，但航空裝箱與交付時間未確認。",
-      "visit": "19下北澤行程若有餘裕，再接表參道／外苑前；先取得具體成車折扣，沒有就保留街區旅行。",
+      "visit": "11/19或11/20（週二、三休）。先逛此店看多品牌成車，再到 Trek 青山試 M／ML，最後視需求去 Pedalist。",
       "minutes": "30–45分",
       "official": "https://www.nalsimafrend.jp/about/",
       "extra": [
         [
           "近期特價線索",
           "https://www.nalsimafrend.jp/tag/anchor/"
+        ],
+        [
+          "門市地址及營業",
+          "https://www.nalsimafrend.jp/access/"
+        ],
+        [
+          "在庫與特價公告",
+          "https://www.nalsimafrend.jp/tag/%E5%9C%A8%E5%BA%AB%E8%BB%8A/"
+        ],
+        [
+          "書面詢問表單",
+          "https://www.nalsimafrend.jp/contact/"
         ]
       ],
       "ll": [
@@ -597,7 +609,7 @@ window.TRIP_SHOPS={
       "address": "東京都港区六本木6-15-1 六本木ヒルズ",
       "access": "六本木站；樓層依商場店頁導航",
       "phone": "03-6303-1009",
-      "hours": "以商場當日資訊為準",
+      "hours": "11:00–20:00（六本木 Hills 官網），臨時異動另核",
       "closedDays": null,
       "tax": "六本木 Hills 官方店頁列可在店內辦免稅；指定調店試乘車是否按原特價辦退款及費用須書面確認。",
       "taxConfirmed": true,
@@ -1151,6 +1163,280 @@ window.TRIP_SHOPS={
         139.804051
       ],
       "positionNote": "町丁目代表點，入口請用 Google Maps。",
+      "positionSource": "https://github.com/geolonia/japanese-addresses"
+    },
+    {
+      "rank": 30,
+      "name": "TREK Bicycle 東京青山",
+      "kind": "Trek 直營｜外苑前首選",
+      "why": "想先試 Madone M／ML、比較 Domane，或問過季／展示車，青山可和 Narushima、Pedalist 走成一趟。",
+      "address": "東京都渋谷区神宮前3-39-5 Qiz AOYAMA",
+      "access": "赤坂見附搭銀座線往澀谷，外苑前下車。",
+      "hours": "11:00–19:00，週一、二休",
+      "closedDays": [
+        1,
+        2
+      ],
+      "official": "https://www.trekbikes.com/jp/ja_JP/P1-SpecialPrice/retail/tokyoaoyama/",
+      "extra": [
+        [
+          "Trek 直營特價",
+          "https://www.trekbikes.com/jp/ja_JP/P1-SpecialPrice/"
+        ],
+        [
+          "書面詢問表單",
+          "https://forms.cloud.microsoft/r/9GnY3bHksL"
+        ]
+      ],
+      "tax": "Trek 門市官網列 TAX FREE SHOP。指定特價車、調店與退款費用仍要核。",
+      "taxConfirmed": true,
+      "candidates": "宇都宮 Madone 試乘車目前沒有青山現貨證據。可問當店有沒有 M／ML 可試，以及調店可能。",
+      "packing": "裝箱費、外箱尺寸及交車日待確認。",
+      "visit": "11/18 可先逛；11/19 可接 Narushima 和 Pedalist。",
+      "phone": "",
+      "localHours": [
+        11,
+        19
+      ],
+      "ll": [
+        35.670429,
+        139.710341
+      ],
+      "positionNote": "地圖圖釘為町丁目代表點，請使用地址導航到店。",
+      "positionSource": "https://github.com/geolonia/japanese-addresses"
+    },
+    {
+      "rank": 31,
+      "name": "Specialized Studio 御茶之水",
+      "kind": "千代田區｜公路成車與試乘",
+      "why": "官方近期有公路成車入荷與試乘公告。先問 54／56 實車、Tarmac／Aethos 店頭舊款、試乘及即納條件。",
+      "address": "東京都千代田区神田駿河台3-4-1 新御茶ノ水龍名館ビル",
+      "access": "從赤坂站搭千代田線直達新御茶ノ水；門市距站約1分。",
+      "hours": "12:00–19:00，週三、四休",
+      "closedDays": [
+        3,
+        4
+      ],
+      "official": "https://specialized-store.jp/ochanomizu/",
+      "extra": [
+        [
+          "門市交通",
+          "https://specialized-store.jp/ochanomizu/access/"
+        ],
+        [
+          "預約／書面詢問",
+          "https://specialized-store.jp/ochanomizu/universal-reservation-inquiries/"
+        ]
+      ],
+      "tax": "此分店整車退款待核。其他直營分店公告適用店不同。",
+      "taxConfirmed": false,
+      "candidates": "未確認合尺寸現貨。",
+      "packing": "裝箱費、外箱尺寸及交車日待確認。",
+      "visit": "11/17 若入住後有空可先逛；11/20 可與小川町 L-Breath 連逛。",
+      "phone": "",
+      "localHours": [
+        12,
+        19
+      ],
+      "ll": [
+        35.696732,
+        139.764721
+      ],
+      "positionNote": "地圖圖釘為町丁目代表點，請使用地址導航到店。",
+      "positionSource": "https://github.com/geolonia/japanese-addresses"
+    },
+    {
+      "rank": 32,
+      "name": "L-Breath BIKE 御茶之水",
+      "kind": "千代田區｜多品牌運動自行車",
+      "why": "小川町運動用品街的實體自行車專門門市。可看公路完成車、舊年式及零件，合適尺寸與高階存量待現場核。",
+      "address": "東京都千代田区神田小川町3-4-2 御茶ノ水三四ビル1F",
+      "access": "新御茶ノ水站步行約5分。",
+      "hours": "11:00–20:00；日及國定假日約至19:30",
+      "closedDays": [],
+      "official": "https://store.lbreath.supersports.com/23261",
+      "extra": [
+        [
+          "神田運動街店家介紹",
+          "https://sports-kanda.com/shopinfo/l-breath-bike/"
+        ]
+      ],
+      "tax": "門市官網標示免稅店。指定公路成車與新制退款、費用待核。",
+      "taxConfirmed": true,
+      "candidates": "未確認合尺寸現貨。",
+      "packing": "裝箱費、外箱尺寸及交車日待確認。",
+      "visit": "11/17–20 可當御茶之水主站；看完有空再走神田明神／秋葉原。",
+      "phone": "",
+      "localHours": null,
+      "ll": [
+        35.695402,
+        139.762406
+      ],
+      "positionNote": "地圖圖釘為町丁目代表點，請使用地址導航到店。",
+      "positionSource": "https://github.com/geolonia/japanese-addresses"
+    },
+    {
+      "rank": 33,
+      "name": "U2 BIKES／RAMON BIKES",
+      "kind": "千代田區｜獨立公路車店",
+      "why": "神田明神旁，同地址可見 RAMON BIKES 舊名。做成車、客製和 CHAPTER2，適合詢問店內展示或舊庫存，組車交期須另問。",
+      "address": "東京都千代田区外神田2-10-9",
+      "access": "神田明神旁，可與御茶之水和秋葉原一起走。",
+      "hours": "12:00–20:00，週二、三休",
+      "closedDays": [
+        2,
+        3
+      ],
+      "official": "https://u2bikes.com/",
+      "extra": [
+        [
+          "書面詢問",
+          "mailto:info@u2bikes.com"
+        ],
+        [
+          "第三方庫存線索",
+          "https://cyclestart.jp/shop/2565/stock"
+        ]
+      ],
+      "tax": "成車退款未查到公開承諾。",
+      "taxConfirmed": false,
+      "candidates": "未確認合尺寸現貨。",
+      "packing": "裝箱費、外箱尺寸及交車日待確認。",
+      "visit": "11/19 或 11/20。想挖現場、喜歡客製再排；網路線索請核日期。",
+      "phone": "",
+      "localHours": [
+        12,
+        20
+      ],
+      "ll": [
+        35.700675,
+        139.768552
+      ],
+      "positionNote": "地圖圖釘為町丁目代表點，請使用地址導航到店。",
+      "positionSource": "https://github.com/geolonia/japanese-addresses"
+    },
+    {
+      "rank": 34,
+      "name": "le.cyc 四谷／ル・サイク四ツ谷",
+      "kind": "近飯店｜運動車與維修備案",
+      "why": "從飯店步行可考慮，適合看入門運動車、工具、維修。官網有店頭在庫按鈕；高階碳纖電變成車未確認。",
+      "address": "東京都新宿区四谷2-9",
+      "access": "四ツ谷站步行約6分。",
+      "hours": "10:30–19:00，週三、四休",
+      "closedDays": [
+        3,
+        4
+      ],
+      "official": "https://www.cyclespot.net/pages/store/yotsuya",
+      "extra": [
+        [
+          "LINE 書面詢問",
+          "https://page.line.me/xat.0000160031.887"
+        ]
+      ],
+      "tax": "成車退款未查到公開承諾。",
+      "taxConfirmed": false,
+      "candidates": "未確認合尺寸現貨。",
+      "packing": "裝箱費、外箱尺寸及交車日待確認。",
+      "visit": "11/17 或 11/20 可順路。只找高階成車可先從外苑前或御茶之水開始。",
+      "phone": "",
+      "localHours": [
+        10.5,
+        19
+      ],
+      "ll": [
+        35.687101,
+        139.725681
+      ],
+      "positionNote": "地圖圖釘為町丁目代表點，請使用地址導航到店。",
+      "positionSource": "https://github.com/geolonia/japanese-addresses"
+    },
+    {
+      "rank": 35,
+      "name": "トミサイクル商会・麴町",
+      "kind": "近飯店｜補胎與維修",
+      "why": "千代田區一番町街坊單車店。適合補胎、打氣、日常維修或詢問小零件，高階公路成車庫存未核。",
+      "address": "東京都千代田区一番町7",
+      "access": "麴町／半藏門步行圈。",
+      "hours": "平日09:30–18:30，週六至15:00，週日休",
+      "closedDays": [
+        0
+      ],
+      "official": "https://koujimachi-dori.com/tomicycle/",
+      "extra": [],
+      "tax": "成車退款未查到公開承諾。",
+      "taxConfirmed": false,
+      "candidates": "未確認合尺寸現貨。",
+      "packing": "裝箱費、外箱尺寸及交車日待確認。",
+      "visit": "有維修或補給需要再走。",
+      "phone": "",
+      "localHours": null,
+      "ll": [
+        35.68735,
+        139.741509
+      ],
+      "positionNote": "地圖圖釘為町丁目代表點，請使用地址導航到店。",
+      "positionSource": "https://github.com/geolonia/japanese-addresses"
+    },
+    {
+      "rank": 36,
+      "name": "Cycle Spot 市谷",
+      "kind": "近飯店｜一般車與維修備案",
+      "why": "店家列一般車、電輔及部分運動車。地理上近，適合補給與基本維修；沒有查到中高階公路成車的公開現貨。",
+      "address": "東京都新宿区市谷田町3-1-4",
+      "access": "JR 市谷站步行約7分。",
+      "hours": "10:30–19:00，週三、四休",
+      "closedDays": [
+        3,
+        4
+      ],
+      "official": "https://www.cyclespot.net/pages/store/ichigaya",
+      "extra": [],
+      "tax": "成車退款未查到公開承諾。",
+      "taxConfirmed": false,
+      "candidates": "未確認合尺寸現貨。",
+      "packing": "裝箱費、外箱尺寸及交車日待確認。",
+      "visit": "11/17 或 11/20 若在市谷或有維修需求再訪。",
+      "phone": "",
+      "localHours": [
+        10.5,
+        19
+      ],
+      "ll": [
+        35.696372,
+        139.738875
+      ],
+      "positionNote": "地圖圖釘為町丁目代表點，請使用地址導航到店。",
+      "positionSource": "https://github.com/geolonia/japanese-addresses"
+    },
+    {
+      "rank": 37,
+      "name": "le.cyc AKIBA／ル・サイクakiba",
+      "kind": "千代田區｜秋葉原補逛",
+      "why": "官方 LINE 列運動車與一般車，適合已在秋葉原時順便看。主要挖高階成車可先看 CycleTrip、Buychari 和 U2。",
+      "address": "東京都千代田区神田松永町16",
+      "access": "秋葉原站昭和通口一帶。",
+      "hours": "LINE 列10:30–19:30，當日營業另核",
+      "closedDays": null,
+      "official": "https://page.line.me/xat.0000160013.y77",
+      "extra": [
+        [
+          "品牌經銷門市資料",
+          "https://pkg.navitime.co.jp/bridgestone-cycle/spot/detail?code=D00179"
+        ]
+      ],
+      "tax": "成車退款未查到公開承諾。",
+      "taxConfirmed": false,
+      "candidates": "未確認合尺寸現貨。",
+      "packing": "裝箱費、外箱尺寸及交車日待確認。",
+      "visit": "有興趣可順路看。",
+      "phone": "",
+      "localHours": null,
+      "ll": [
+        35.70031,
+        139.775293
+      ],
+      "positionNote": "地圖圖釘為町丁目代表點，請使用地址導航到店。",
       "positionSource": "https://github.com/geolonia/japanese-addresses"
     }
   ],

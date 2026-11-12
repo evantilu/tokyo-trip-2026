@@ -4,7 +4,7 @@ const D=window.TRIP_SHOPS,G=window.TRIP_TOUR_GEO||{},KEY='tokyo-trip-explorer-v1
 if(!D||!window.L)return;
 let saved={marks:{},plans:{},notes:{}};try{const v=JSON.parse(localStorage.getItem(KEY)||'null');if(v&&typeof v==='object')for(const k of ['marks','plans','notes'])if(v[k]&&typeof v[k]==='object'&&!Array.isArray(v[k]))saved[k]=v[k]}catch(_){}
 const S={view:'day',day:state.mode==='tour'?state.tourDay:state.selected,allShops:false,showTrip:true,showShops:true,taxOnly:false,selected:null,near:null,full:false};
-const recommended={17:[4,15,20,21],18:[1,2,18],19:[9,24,5,7,10],20:[3,6,8,22,23],21:[]};
+const recommended={17:[15,23,31,32],18:[30,23,1,2],19:[9,30,24,33],20:[31,32,33,22,3,6],21:[]};
 const schedules={1:[[],10,20],2:[[],12,20],3:[[],11,20],4:[[3,4],11,19],5:[[3],12,19],6:[[],12,20],7:[[],12,18],8:[[],12,20],9:[[2,3],12,19.5],10:[[3],10,20],11:[[],10,20],12:[[3,4],11,19],13:[[3,4],11,19],14:[[3,4],11,19]};
 const sourceAttribution='地址代表點：<a target="_blank" rel="noopener" href="https://geolonia.github.io/japanese-addresses/">Geolonia</a>；景點定位來源見資訊卡';
 const shops=D.shops.map(a=>({...a,id:'shop-'+a.rank,taxConfirmed:Boolean(a.taxConfirmed)}));
@@ -17,7 +17,7 @@ new Tiles('https://cyberjapandata.gsi.go.jp/xyz/pale/{z}/{x}/{y}.png',{attributi
 const routeLayer=L.layerGroup().addTo(map),shopLayer=L.layerGroup().addTo(map);let tripNodes=[],displayed=[],markers={};
 const jpDate=(day)=>new Date(Date.UTC(2026,10,Number(day))),weekday=day=>jpDate(day).getUTCDay();
 function normalStatus(a){if(a.rank===7||a.closedDays===null)return {closed:false,label:'開放／休假待確認',unknown:true};const closed=normalFor(a,S.day);return {closed,label:closed?'所選日公休':a.booking||[4,12,13,14].includes(a.rank)?'正常營業日・須預約':'正常營業日（臨時異動另核）',unknown:false}}
-function liveStatus(a){const parts=new Intl.DateTimeFormat('en-CA',{timeZone:'Asia/Tokyo',year:'numeric',month:'2-digit',day:'2-digit',hour:'2-digit',minute:'2-digit',hourCycle:'h23'}).formatToParts(new Date()),p=Object.fromEntries(parts.map(v=>[v.type,v.value]));if(`${p.year}-${p.month}-${p.day}`!==`2026-11-${S.day}`)return '';const sc=schedules[a.rank],n=normalStatus(a);if(!sc||n.unknown||n.closed)return '';const hour=Number(p.hour)+Number(p.minute)/60;return hour>=sc[1]&&hour<sc[2]?'依正常時段，目前營業中':'依正常時段，目前未營業'}
+function liveStatus(a){const parts=new Intl.DateTimeFormat('en-CA',{timeZone:'Asia/Tokyo',year:'numeric',month:'2-digit',day:'2-digit',hour:'2-digit',minute:'2-digit',hourCycle:'h23'}).formatToParts(new Date()),p=Object.fromEntries(parts.map(v=>[v.type,v.value]));if(`${p.year}-${p.month}-${p.day}`!==`2026-11-${S.day}`)return '';const sc=a.localHours?[a.closedDays,...a.localHours]:schedules[a.rank],n=normalStatus(a);if(!sc||n.unknown||n.closed)return '';const hour=Number(p.hour)+Number(p.minute)/60;return hour>=sc[1]&&hour<sc[2]?'依正常時段，目前營業中':'依正常時段，目前未營業'}
 function persist(){try{localStorage.setItem(KEY,JSON.stringify(saved));$('explorerSaveStatus').textContent='已保存在本瀏覽器；換手機／瀏覽器前請匯出備份。'}catch(_){$('explorerSaveStatus').textContent='無法寫入本機，請匯出備份以免遺失。'}}
 function distance(a,b){const rad=Math.PI/180,p=(b[0]-a[0])*rad,q=(b[1]-a[1])*rad,h=Math.sin(p/2)**2+Math.cos(a[0]*rad)*Math.cos(b[0]*rad)*Math.sin(q/2)**2;return 6371*2*Math.atan2(Math.sqrt(h),Math.sqrt(1-h))}
 function sightNodes(day){const out=[];if(day<=17){const d=tourDays[String(day)];if(d){d.stops.forEach((p,i)=>{const g=G[p.query];out.push({id:'tour-'+day+'-'+i,name:p.name,ll:g?.ll||null,query:p.query,note:p.see,time:p.time,source:p.source,more:p.more,positionSource:g?.source,positionNote:g?.note||'尚未核得定位，請用地圖搜尋',type:'sight',day:String(day)})});const h=G[d.hotelQuery];out.push({id:'hotel-'+day,name:d.hotel,ll:h?.ll||null,positionSource:h?.source,positionNote:h?.note,query:d.hotelQuery,note:'依旅行社行程；實際房間與集合以導遊通知為準。',type:'hotel',day:String(day)})}}
@@ -54,6 +54,18 @@ for(const a of document.querySelectorAll('a[href="#mapsection"]')){a.href='#expl
 const mapNav=document.createElement('a');mapNav.href='#explore';mapNav.textContent='行程＋車店地圖';mapNav.onclick=()=>requestAnimationFrame(()=>map.invalidateSize());if(!document.querySelector('nav a[href="#explore"]'))document.querySelector('nav').prepend(mapNav);
 map.on('zoomend moveend',()=>drawShops());window.addEventListener('resize',()=>map.invalidateSize());window.addEventListener('online',networkStatus);window.addEventListener('offline',networkStatus);setInterval(networkStatus,60000);
 function openShopFromHash(){
+ if(location.hash==='#hotel-bike-map'){
+  S.view='near';
+  S.showShops=true;
+  S.taxOnly=false;
+  S.near=[...points.hotel.ll];
+  S.near.name='都市中心酒店';
+  S.selected=null;
+  $('explorerDetail').innerHTML='';
+  renderExplorer();
+  box.scrollIntoView();
+  return;
+ }
  const shop=shops.find(item=>'#'+item.id===location.hash);
  if(!shop)return;
  S.showShops=true;
