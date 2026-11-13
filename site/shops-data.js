@@ -937,13 +937,13 @@ window.TRIP_SHOPS={
       "rank": 23,
       "name": "Y’s Road 新橋",
       "kind": "多品牌｜Bianchi／Pinarello",
-      "why": "Bianchi 新橋是這家店內專區，和 Pinarello 專區一起看；鎖定店頭出清和即納尺寸。",
+      "why": "Bianchi 新橋是這家店內專區，和 Pinarello 專區一起看；鎖定店頭出清和即納尺寸。 新橋トライアスロン館也在同址。",
       "candidates": "未確認本次合尺寸現貨。",
       "address": "東京都港区新橋4-11-1 A-PLACE新橋 B1F・1F",
       "access": "新橋站步行約3分。",
       "phone": "",
-      "hours": "以官方店頁為準",
-      "closedDays": null,
+      "hours": "平日12:00–20:00，土日祝11:00–19:00，無固定休。",
+      "closedDays": [],
       "tax": "分店官網列免稅對應。結帳前出示優惠券，先確認特價品能否併用及預計退款。",
       "taxConfirmed": true,
       "packing": "先問是否能裝箱、拆卸項目、外箱長寬高、總重、費用及11/20前交付。",
@@ -966,7 +966,11 @@ window.TRIP_SHOPS={
         139.755933
       ],
       "positionNote": "町丁目代表點，入口請用 Google Maps。",
-      "positionSource": "https://github.com/geolonia/japanese-addresses"
+      "positionSource": "https://github.com/geolonia/japanese-addresses",
+      "localHours": [
+        12,
+        20
+      ]
     },
     {
       "rank": 24,
@@ -1495,6 +1499,460 @@ window.TRIP_SHOPS={
       "positionNote": "Yahoo! JAPAN 店家圖釘；入口可開啟原 Google Maps 標記。",
       "positionSource": "https://map.yahoo.co.jp/v3/place/7caqmFozVho",
       "taxConfirmed": false
+    },
+    {
+      "rank": 39,
+      "name": "Y’s Road 池袋本館",
+      "kind": "公路成車｜池袋 Charlie 同趟",
+      "why": "多品牌公路車；先在 Charlie 看特價，再到本館補查尺寸和車款。",
+      "candidates": "未核實本次合尺寸現貨。",
+      "address": "東京都豊島区東池袋1-27-8 原ビル1F・3F",
+      "access": "池袋站／東池袋站。",
+      "phone": "03-5992-4070",
+      "hours": "平日12:00–20:00，土日祝11:00–19:00，無固定休。",
+      "closedDays": [],
+      "localHours": [
+        12,
+        20
+      ],
+      "ll": [
+        35.731372,
+        139.715298
+      ],
+      "official": "https://portal.ysroad.co.jp/shop/kanto/ikebukuro/",
+      "extra": [
+        [
+          "官方維護期間門市資訊",
+          "https://d1bmo0smkkt8hz.cloudfront.net/"
+        ],
+        [
+          "取消週三公休的公告",
+          "https://ysroad.co.jp/ikebukuro/2025/05/25/148854"
+        ]
+      ],
+      "taxConfirmed": true,
+      "tax": "官方門市頁標示免稅對應，指定商品、旅客退款方式與費用另核。",
+      "packing": "請先確認紙箱、航空托運裝箱費、外箱長寬高與 11/20 前可交付時間。",
+      "visit": "11/18 若想在池袋多比一家，Charlie 後 12:00 起順訪。",
+      "positionNote": "町丁目代表點，入口請用 Google Maps。",
+      "positionSource": "https://github.com/geolonia/japanese-addresses"
+    },
+    {
+      "rank": 40,
+      "name": "Y’s Road 府中多摩川",
+      "kind": "多品牌公路成車｜東京西側",
+      "why": "官方有公路車展區，也刊登店家客製完成車與舊款特價。八王子方向若有指定車可安排。",
+      "candidates": "未核實本次合尺寸現貨。",
+      "address": "東京都府中市四谷5-42-3",
+      "access": "在多摩川旁；搭大眾運輸請用地址查末段巴士與步行。",
+      "phone": "042-352-3308",
+      "hours": "11:00–19:00，無固定休。",
+      "closedDays": [],
+      "localHours": [
+        11,
+        19
+      ],
+      "ll": [
+        35.665526,
+        139.438194
+      ],
+      "official": "https://portal.ysroad.co.jp/shop/kanto/fuchu/",
+      "extra": [
+        [
+          "官方維護期間門市資訊",
+          "https://d1bmo0smkkt8hz.cloudfront.net/"
+        ],
+        [
+          "店家介紹與巴士資訊",
+          "https://ysroad.co.jp/fuchu/shop"
+        ]
+      ],
+      "taxConfirmed": true,
+      "tax": "官方門市頁標示免稅對應，指定商品、旅客退款方式與費用另核。",
+      "packing": "請先確認紙箱、航空托運裝箱費、外箱長寬高與 11/20 前可交付時間。",
+      "visit": "查到合尺寸的指定車再安排。",
+      "positionNote": "町丁目代表點，入口請用 Google Maps。",
+      "positionSource": "https://github.com/geolonia/japanese-addresses"
+    },
+    {
+      "rank": 41,
+      "name": "Y’s Road 大井町",
+      "kind": "多品牌公路成車｜品川順訪",
+      "why": "官方列公路車。若已在品川／大井町，可順看店頭完整車及可交車尺寸。",
+      "candidates": "未核實本次合尺寸現貨。",
+      "address": "東京都品川区東大井5-16-9 フィル・パーク大井町駅前1F・2F",
+      "access": "大井町站前。",
+      "phone": "03-6712-1267",
+      "hours": "11:00–19:00，無固定休。",
+      "closedDays": [],
+      "localHours": [
+        11,
+        19
+      ],
+      "ll": [
+        35.606461,
+        139.737034
+      ],
+      "official": "https://portal.ysroad.co.jp/shop/kanto/oimachi/",
+      "extra": [
+        [
+          "官方維護期間門市資訊",
+          "https://d1bmo0smkkt8hz.cloudfront.net/"
+        ]
+      ],
+      "taxConfirmed": true,
+      "tax": "官方門市頁標示免稅對應，指定商品、旅客退款方式與費用另核。",
+      "packing": "請先確認紙箱、航空托運裝箱費、外箱長寬高與 11/20 前可交付時間。",
+      "visit": "查到合尺寸的指定車再安排。",
+      "positionNote": "町丁目代表點，入口請用 Google Maps。",
+      "positionSource": "https://github.com/geolonia/japanese-addresses"
+    },
+    {
+      "rank": 42,
+      "name": "Y’s Road 洗足",
+      "kind": "義大利品牌公路車｜指定品牌順訪",
+      "why": "官方定位為義大利自行車品牌選車點。鎖定義系公路車時，可先查本店車款和尺寸。",
+      "candidates": "未核實本次合尺寸現貨。",
+      "address": "東京都大田区北千束1-4-6 1F",
+      "access": "東急目黑線洗足站步行約3分鐘。",
+      "phone": "03-5726-9194",
+      "hours": "11:00–19:00，無固定休。",
+      "closedDays": [],
+      "localHours": [
+        11,
+        19
+      ],
+      "ll": [
+        35.610185,
+        139.688469
+      ],
+      "official": "https://portal.ysroad.co.jp/shop/kanto/senzoku/",
+      "extra": [
+        [
+          "官方維護期間門市資訊",
+          "https://d1bmo0smkkt8hz.cloudfront.net/"
+        ]
+      ],
+      "taxConfirmed": true,
+      "tax": "官方門市頁標示免稅對應，指定商品、旅客退款方式與費用另核。",
+      "packing": "請先確認紙箱、航空托運裝箱費、外箱長寬高與 11/20 前可交付時間。",
+      "visit": "查到合尺寸的指定車再安排。",
+      "positionNote": "町丁目代表點，入口請用 Google Maps。",
+      "positionSource": "https://github.com/geolonia/japanese-addresses"
+    },
+    {
+      "rank": 43,
+      "name": "Y’s Road 上野ウェア館",
+      "kind": "服飾專門店｜千代田區外神田",
+      "why": "主看車衣、安全帽、卡鞋、眼鏡；公路成車先去上野本館。",
+      "candidates": "未核實本次合尺寸現貨。",
+      "address": "東京都千代田区外神田6-16-1 外神田フジハイツ1F",
+      "access": "末廣町站一帶，可接秋葉原／上野。",
+      "phone": "03-5812-6656",
+      "hours": "平日12:00–20:00，土日祝11:00–19:00，無固定休。",
+      "closedDays": [],
+      "localHours": [
+        12,
+        20
+      ],
+      "ll": [
+        35.704066,
+        139.770971
+      ],
+      "official": "https://portal.ysroad.co.jp/shop/kanto/ueno-wearkan/",
+      "extra": [
+        [
+          "官方維護期間門市資訊",
+          "https://d1bmo0smkkt8hz.cloudfront.net/"
+        ]
+      ],
+      "taxConfirmed": true,
+      "tax": "官方門市頁標示免稅對應，指定商品、旅客退款方式與費用另核。",
+      "packing": "請先確認紙箱、航空托運裝箱費、外箱長寬高與 11/20 前可交付時間。",
+      "visit": "11/20 秋葉原與上野之間，想買車衣或卡鞋時順訪。",
+      "positionNote": "町丁目代表點，入口請用 Google Maps。",
+      "positionSource": "https://github.com/geolonia/japanese-addresses"
+    },
+    {
+      "rank": 44,
+      "name": "Y’s Road 新宿ウェア館",
+      "kind": "服飾專門店｜新宿本館同棟 B1F",
+      "why": "看車衣、安全帽與卡鞋；可和新宿本館共用一趟。",
+      "candidates": "未核實本次合尺寸現貨。",
+      "address": "東京都新宿区新宿2-19-1 BYGS新宿ビル B1F",
+      "access": "新宿三丁目站；與新宿本館同棟。",
+      "phone": "03-5363-5696",
+      "hours": "平日12:00–20:00，土日祝11:00–19:00，無固定休。",
+      "closedDays": [],
+      "localHours": [
+        12,
+        20
+      ],
+      "ll": [
+        35.690064,
+        139.708387
+      ],
+      "official": "https://portal.ysroad.co.jp/shop/kanto/shinjuku-wearkan/",
+      "extra": [
+        [
+          "官方維護期間門市資訊",
+          "https://d1bmo0smkkt8hz.cloudfront.net/"
+        ]
+      ],
+      "taxConfirmed": true,
+      "tax": "官方門市頁標示免稅對應，指定商品、旅客退款方式與費用另核。",
+      "packing": "請先確認紙箱、航空托運裝箱費、外箱長寬高與 11/20 前可交付時間。",
+      "visit": "新宿本館看完，有裝備需求時順看。",
+      "positionNote": "町丁目代表點，入口請用 Google Maps。",
+      "positionSource": "https://github.com/geolonia/japanese-addresses"
+    },
+    {
+      "rank": 45,
+      "name": "Y’s Road 新宿クロスバイク館",
+      "kind": "平把運動車專門店｜新宿本館同棟 B2F",
+      "why": "以クロスバイク為主；找彎把公路成車先看 B1F 的新宿本館。",
+      "candidates": "未核實本次合尺寸現貨。",
+      "address": "東京都新宿区新宿2-19-1 BYGS新宿ビル B2F",
+      "access": "新宿三丁目站；與新宿本館同棟。",
+      "phone": "03-5312-1485",
+      "hours": "平日12:00–20:00，土日祝11:00–19:00，無固定休。",
+      "closedDays": [],
+      "localHours": [
+        12,
+        20
+      ],
+      "ll": [
+        35.690064,
+        139.708387
+      ],
+      "official": "https://portal.ysroad.co.jp/shop/kanto/shinjuku-crossbikekan/",
+      "extra": [
+        [
+          "官方維護期間門市資訊",
+          "https://d1bmo0smkkt8hz.cloudfront.net/"
+        ]
+      ],
+      "taxConfirmed": true,
+      "tax": "官方門市頁標示免稅對應，指定商品、旅客退款方式與費用另核。",
+      "packing": "請先確認紙箱、航空托運裝箱費、外箱長寬高與 11/20 前可交付時間。",
+      "visit": "只在對平把運動車有興趣時下樓。",
+      "positionNote": "町丁目代表點，入口請用 Google Maps。",
+      "positionSource": "https://github.com/geolonia/japanese-addresses"
+    },
+    {
+      "rank": 46,
+      "name": "Y’s Road 入間 Outlet",
+      "kind": "埼玉｜Outlet",
+      "why": "三井 Outlet Park 入間二樓，店家有折扣與入荷消息。值得先查指定尺寸特價。",
+      "candidates": "未核實本次合尺寸現貨。",
+      "address": "埼玉県入間市宮寺3169-1 三井アウトレットパーク入間 W棟2F 4510区画",
+      "access": "由入間市站方向查商場巴士。",
+      "phone": "042-937-4011",
+      "hours": "10:00–20:00，依商場營業公告。",
+      "closedDays": [],
+      "localHours": [
+        10,
+        20
+      ],
+      "ll": [
+        35.794927,
+        139.376559
+      ],
+      "official": "https://portal.ysroad.co.jp/shop/kanto/iruma/",
+      "extra": [
+        [
+          "官方維護期間門市資訊",
+          "https://d1bmo0smkkt8hz.cloudfront.net/"
+        ],
+        [
+          "門市介紹",
+          "https://ysroad.co.jp/iruma/shop"
+        ],
+        [
+          "入荷・在庫情報",
+          "https://ysroad.co.jp/iruma/stock"
+        ]
+      ],
+      "taxConfirmed": false,
+      "tax": "本次尚未核得這個門市的旅客退稅條件。",
+      "packing": "請先確認紙箱、航空托運裝箱費、外箱長寬高與 11/20 前可交付時間。",
+      "visit": "查到合尺寸的指定車再安排。",
+      "positionNote": "町丁目代表點，入口請用 Google Maps。",
+      "positionSource": "https://github.com/geolonia/japanese-addresses"
+    },
+    {
+      "rank": 47,
+      "name": "Y’s Road 川崎",
+      "kind": "神奈川｜公路成車與同址服飾館",
+      "why": "川崎店有公路成車，服飾館同址。若有指定車或已到川崎，再放入行程。",
+      "candidates": "未核實本次合尺寸現貨。",
+      "address": "神奈川県川崎市川崎区砂子2-10-2 川崎ミッドマークタワー1F・2F",
+      "access": "JR 川崎站／京急川崎站。",
+      "phone": "044-221-1531",
+      "hours": "平日12:00–20:00；週末12:00–19:00；無固定休。",
+      "closedDays": [],
+      "localHours": [
+        12,
+        20
+      ],
+      "ll": [
+        35.529262,
+        139.700321
+      ],
+      "official": "https://portal.ysroad.co.jp/shop/kanto/kawasaki/",
+      "extra": [
+        [
+          "官方維護期間門市資訊",
+          "https://d1bmo0smkkt8hz.cloudfront.net/"
+        ]
+      ],
+      "taxConfirmed": true,
+      "tax": "官方門市頁標示免稅對應，指定商品、旅客退款方式與費用另核。",
+      "packing": "請先確認紙箱、航空托運裝箱費、外箱長寬高與 11/20 前可交付時間。",
+      "visit": "查到合尺寸的指定車再安排。",
+      "positionNote": "町丁目代表點，入口請用 Google Maps。",
+      "positionSource": "https://github.com/geolonia/japanese-addresses"
+    },
+    {
+      "rank": 48,
+      "name": "Y’s Road 橫濱 World Porters",
+      "kind": "神奈川｜橫濱港區公路車",
+      "why": "可和橫濱行程搭配；購車先查店頭現貨、退款與裝箱。",
+      "candidates": "未核實本次合尺寸現貨。",
+      "address": "神奈川県横浜市中区新港2-2-1 横浜ワールドポーターズ6F A区画",
+      "access": "橫濱港未來地區。",
+      "phone": "045-263-6342",
+      "hours": "12:00–20:00，無固定休。",
+      "closedDays": [],
+      "localHours": [
+        12,
+        20
+      ],
+      "ll": [
+        35.45505,
+        139.638554
+      ],
+      "official": "https://portal.ysroad.co.jp/shop/kanto/yokohama/",
+      "extra": [
+        [
+          "官方維護期間門市資訊",
+          "https://d1bmo0smkkt8hz.cloudfront.net/"
+        ]
+      ],
+      "taxConfirmed": false,
+      "tax": "本次尚未核得這個門市的旅客退稅條件。",
+      "packing": "請先確認紙箱、航空托運裝箱費、外箱長寬高與 11/20 前可交付時間。",
+      "visit": "查到合尺寸的指定車再安排。",
+      "positionNote": "町丁目代表點，入口請用 Google Maps。",
+      "positionSource": "https://github.com/geolonia/japanese-addresses"
+    },
+    {
+      "rank": 49,
+      "name": "Y’s Road 船橋",
+      "kind": "千葉｜公路成車",
+      "why": "LaLaport TOKYO-BAY 門市，官方列公路車；有具體庫存再專程去。",
+      "candidates": "未核實本次合尺寸現貨。",
+      "address": "千葉県船橋市浜町2-2-7 ららぽーとTOKYO-BAY North Gate 1F 104-2",
+      "access": "JR 南船橋站／京成船橋競馬場站。",
+      "phone": "047-402-6681",
+      "hours": "維護公告列平日10:00–20:00、週末10:00–19:00；出發前確認商場營業。",
+      "closedDays": [],
+      "localHours": [
+        10,
+        20
+      ],
+      "ll": [
+        35.683594,
+        139.988524
+      ],
+      "official": "https://portal.ysroad.co.jp/shop/kanto/funabashi/",
+      "extra": [
+        [
+          "官方維護期間門市資訊",
+          "https://d1bmo0smkkt8hz.cloudfront.net/"
+        ]
+      ],
+      "taxConfirmed": true,
+      "tax": "官方門市頁標示免稅對應，指定商品、旅客退款方式與費用另核。",
+      "packing": "請先確認紙箱、航空托運裝箱費、外箱長寬高與 11/20 前可交付時間。",
+      "visit": "查到合尺寸的指定車再安排。",
+      "positionNote": "町丁目代表點，入口請用 Google Maps。",
+      "positionSource": "https://github.com/geolonia/japanese-addresses"
+    },
+    {
+      "rank": 50,
+      "name": "Y’s Road 熊谷",
+      "kind": "埼玉｜公路成車，遠程備案",
+      "why": "官方列公路車；只在有值得專程去的指定成車時考慮。",
+      "candidates": "未核實本次合尺寸現貨。",
+      "address": "埼玉県熊谷市肥塚935-12",
+      "access": "熊谷站方向，請查末段巴士。",
+      "phone": "048-580-5236",
+      "hours": "維護公告列11:00–18:00；週三休（國定假日除外）。",
+      "closedDays": [
+        3
+      ],
+      "localHours": [
+        11,
+        18
+      ],
+      "ll": [
+        36.164366,
+        139.391436
+      ],
+      "official": "https://portal.ysroad.co.jp/shop/kanto/kumagaya/",
+      "extra": [
+        [
+          "官方維護期間門市資訊",
+          "https://d1bmo0smkkt8hz.cloudfront.net/"
+        ]
+      ],
+      "taxConfirmed": true,
+      "tax": "官方門市頁標示免稅對應，指定商品、旅客退款方式與費用另核。",
+      "packing": "請先確認紙箱、航空托運裝箱費、外箱長寬高與 11/20 前可交付時間。",
+      "visit": "查到合尺寸的指定車再安排。",
+      "positionNote": "町丁目代表點，入口請用 Google Maps。",
+      "positionSource": "https://github.com/geolonia/japanese-addresses"
+    },
+    {
+      "rank": 51,
+      "name": "Y’s Road 宇都宮 じてんしゃの杜",
+      "kind": "栃木｜公路車，遠程備案",
+      "why": "若已為 Trek 走一趟宇都宮，有時間再看 Y’s Road 的公路車；兩家各自查地址。",
+      "candidates": "未核實本次合尺寸現貨。",
+      "address": "栃木県宇都宮市岩曽町1482",
+      "access": "從宇都宮站另查巴士或計程車。",
+      "phone": "028-678-5326",
+      "hours": "平日12:00–19:00，土日祝11:00–18:00；週二、三休（國定假日除外）。",
+      "closedDays": [
+        2,
+        3
+      ],
+      "localHours": [
+        12,
+        19
+      ],
+      "ll": [
+        36.584306,
+        139.904421
+      ],
+      "official": "https://portal.ysroad.co.jp/shop/kitakanto/utsunomiya/",
+      "extra": [
+        [
+          "官方維護期間門市資訊",
+          "https://d1bmo0smkkt8hz.cloudfront.net/"
+        ],
+        [
+          "店家部落格",
+          "https://ysroad.co.jp/utsunomiya/"
+        ]
+      ],
+      "taxConfirmed": true,
+      "tax": "官方門市頁標示免稅對應，指定商品、旅客退款方式與費用另核。",
+      "packing": "請先確認紙箱、航空托運裝箱費、外箱長寬高與 11/20 前可交付時間。",
+      "visit": "查到合尺寸的指定車再安排。",
+      "positionNote": "町丁目代表點，入口請用 Google Maps。",
+      "positionSource": "https://github.com/geolonia/japanese-addresses"
     }
   ],
   "plans": [

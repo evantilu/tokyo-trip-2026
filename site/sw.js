@@ -1,5 +1,5 @@
 const PREFIX='tokyo-trip-2026-';
-const CACHE=PREFIX+'map-20261112-v4';
+const CACHE=PREFIX+'map-20261113-v1';
 const TILE_CACHE=PREFIX+'maptiles-v1';
 const ROOT=new URL('./',self.location.href);
 const INDEX=new URL('index.html',ROOT).href;
