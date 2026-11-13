@@ -2110,3 +2110,54 @@ window.TRIP_SHOPS={
     ]
   ]
 };
+/* Claude 2026-11-13: priority overlay. Keyed by rank so existing shop IDs (shop-<rank>), marks and notes stay valid.
+   tier 1 必去｜2 值得順路｜3 備選｜4 不必專程（地圖淡色）。未列者視為 tier 4。 */
+window.TRIP_SHOPS.priority={
+ asof:"2026-11-13",
+ tiers:{1:"必去",2:"值得順路",3:"有空再去",4:"不必專程"},
+ briefing:[
+  {t:"Y’s Road 黑五正在進行",d:"店頭 11/13（五）–12/6（日），全國門市。店舗限定特價、原創完成車特價、36 期 0 利率、多件 5%OFF、PayPay 回饋 5%。官網和線上店仍停機（403），價格只能到店看。",u:"https://www.cyclesports.jp/news/shop/171658/"},
+  {t:"Trek 直營店試乘／展示車 2–5 折",d:"11 月更新清單，直營店之間可調車；東京直營有青山、六本木、池袋。值得問：Madone SLR 7 Gen 8 M 試乘車 ¥840,000（原價 ¥1,400,000，目前在宇都宮／新潟／北九州）。神保町直營已關店。",u:"https://www.trekbikes.com/jp/ja_JP/P1-SpecialPrice/"},
+  {t:"退稅是新制：先付含稅，出境時才退",d:"11/1 起改リファンド方式：結帳付含稅價，出境託運前給海關確認，之後才退款。一定要在結帳前問「這台（含特價）能不能辦、手續費多少」。目前沒有任何一家對特定車給過書面確認。",u:"https://www.customs.go.jp/kaigairyoko/taxrefund.htm"},
+  {t:"航空箱比價格更容易卡關",d:"付款前要拿到：外箱長寬高、總重、拆了哪些零件、費用、哪天能取。國內配送紙箱不等於航空托運箱。最後一天（11/20）不要安排第一次看車＋當天裝箱。",u:""},
+  {t:"這些活動不適合這趟",d:"Giant 黑五 11/20 才開始，而且只能線上下單、出貨後 2–3 週到店取車；Canyon 試乘車（Ultimate CFR Di2 M ¥599,000）只能宅配，飯店能否收大箱未確認；BIKE PLUS 秋季特價門市都在郊外。",u:"https://canyon-japan.com/collections/outlet"}
+ ],
+ shops:{
+  1:{tier:1,short:"Y’s 池袋 Charlie",headline:"Y’s 的 Outlet 出清店，黑五正在打折",deal:"黑五 11/13–12/6：店舗特價＋原創完成車特價",must:["10:00 開、無固定休，是最早能逛的一家","直接問沒上網的展示車、試乘車、舊年式完成車","部分池袋限定 Outlet 不跨店調貨、不接受電話留車","官方列免稅店；特價車能否辦新制退款要在結帳前問"]},
+  2:{tier:1,side:"l",short:"Y’s 新宿本館",headline:"常設展示 500 台以上，一次比完尺寸和品牌",deal:"黑五 11/13–12/6",must:["平日 12:00 開（週末 11:00），無固定休","同棟 B1 服飾館、B2 平把車館不用看","台灣車友舊例：店家打包約 3 個工作天，這次費用和交期要重問","官方列免稅店；問特價車退稅＋航空箱外尺寸"]},
+  3:{tier:1,short:"Buychari 秋葉原",headline:"東京中古車最集中：合你尺寸、¥20 萬以上的公路車約 10 台",must:["11:00–20:00，原則全年營業；沒有黑五活動，網站標價即含稅價","你的候選：Tarmac SL7 Pro 1x 54（¥396,000，你想二階詳查）、Cervélo S5 Disc 54（¥900,000，想現場看）","同店另有 Orca M20i Team ¥534,000、Izalco Max 9 Di2 ¥420,000、LOOK 765 ¥250,000","免稅資格未確認；國內配送紙箱不等於航空箱"]},
+  23:{tier:1,short:"Y’s 新橋",headline:"離飯店最近的 Y’s：赤坂見附搭銀座線約 7 分",deal:"黑五 11/13–12/6",must:["平日 12:00–20:00、假日 11:00–19:00","Bianchi 專區在這裡（丸之內 Bianchi 已關店）","入住當天或晚上只有一小段空檔時最好用"]},
+  30:{tier:1,short:"Trek 青山",headline:"Trek 直營：試乘／展示車特價，可調其他直營店的車",deal:"直營店 Special Price（11 月更新）",must:["週一、二休 → 11/18–20 可去","問 Madone SLR 7 Gen 8 M 試乘車 ¥840,000 能否從宇都宮調來、費用多少","店內特價現貨：Émonda ALR5 54 ¥224,000（鋁車）","官網列 TAX FREE；特價車、調店與退款費用要另外確認"]},
+  6:{tier:2,short:"Y’s 上野",headline:"11/20 谷中、上野那天順路；黑五中",deal:"黑五 11/13–12/6",must:["銀座線上野廣小路直達，與 Buychari 秋葉原可串成一趟","同區アサゾー店主要是車架／輪組，只問完整車"]},
+  39:{tier:2,short:"Y’s 池袋本館",headline:"和池袋 Charlie 同一趟，12:00 開",deal:"黑五 11/13–12/6",must:["先 10:00 看 Charlie，再走過來","地圖點位和 Charlie 共用同一街區代表點"]},
+  15:{tier:2,short:"Trek 六本木",headline:"想調 Madone 試乘車到東京時的窗口",must:["11:00–20:00（依六本木 Hills）","商場店頁列可在店內辦免稅","先用 Trek 書面表單詢問；表單不受理留車"]},
+  9:{tier:2,short:"なるしま 神宮",headline:"專業公路車店，和 Trek 青山同一站",must:["週二、三休 → 只剩 11/19、11/20","在庫車：Pinarello X3 105 Di2 51.5 ¥476,000（對你偏小）","沒有黑五公告"]},
+  11:{tier:2,short:"Buychari 有明",headline:"你保留的 Canyon Ultimate CF SL8 Aero（¥440,000）在這",must:["尺寸 S（172–178cm），對你偏小，要試坐","商場店頁標示不能免稅","同店另有 Pinarello Prince Disk ¥430,000、Prince FX ¥350,000"]},
+  21:{tier:2,short:"Specialized CPO",headline:"Specialized 原廠認定中古車，完全預約制",must:["週三、四休","先在官網按尺寸篩好車再預約","Tarmac 在台灣轉售認知度高"]},
+  5:{tier:2,short:"Firstbikes 八王子",headline:"Orca Aero M20i Team 53 新車 ¥757,263；有確認才遠征",must:["週三休；平日 12:00、週末 13:00 開","在庫表停在 11/06 版，先問現況","想去就 11/19 和 THE BASE 南大澤排同一天"]},
+  38:{tier:2,short:"★ THE BASE",headline:"你標記的店：新車、中古、店頭出清都有",must:["週五休","京王堀之內／南大澤站步行約 15 分","和 Firstbikes 同一天跑"]},
+  4:{tier:3,short:"BICI 南麻布",headline:"預約制、週三四休；Oltre XR3 55 ¥231,000（你覺得沒到誘人）"},
+  8:{tier:3,short:"Y’s アサゾー",headline:"高階車架／輪組為主，只問完整成車"},
+  20:{tier:3,short:"Specialized 新宿",headline:"新車直營，問 Outlet 價和店內尺寸"},
+  31:{tier:3,short:"Specialized 御茶之水",headline:"公路成車與試乘；週三、四休"},
+  32:{tier:3,short:"L-Breath 御茶之水",headline:"多品牌運動車，和御茶之水店家同一趟"},
+  33:{tier:3,short:"U2 Bikes",headline:"獨立公路車店；週二、三休"},
+  22:{tier:3,short:"CycleTrip 秋葉原",headline:"前租賃車出售；先確認不是出租中"},
+  25:{tier:3,short:"Pedalist 青山",headline:"Pinarello 專門店；週二、三休"},
+  18:{tier:3,short:"LORO 日本橋",headline:"Trek 授權店，Trek 直營沒貨時的備案"},
+  24:{tier:3,short:"Cycle Pine",headline:"多品牌，出清價要問；在京王線下高井戸，不在青山"},
+  16:{tier:3,short:"Trek 宇都宮",headline:"Madone 試乘車所在店；先問能否調到六本木"},
+  17:{tier:3,short:"Buychari 宇都宮",headline:"Colnago V3 Disc ¥460,000、Specialissima Disc ¥530,000 在這；成為首選才去"},
+  7:{tier:3,short:"Cycle Paradise",headline:"中古倉庫，以網購為主；先在網站挑好再聯絡"},
+  10:{tier:3,short:"Cycly 世田谷",headline:"中古連鎖；線上庫存多為舊年式"},
+  12:{tier:4,short:"BICI 立川",headline:"Emonda SL6 Pro（你已註記不要耐力車）"},
+  13:{tier:4,short:"BICI 浦和",headline:"Madone SLR9 ¥880,000（你註記應該不會買）"},
+  14:{tier:4,short:"BICI 横浜",headline:"LOOK 785 圈煞（你註記購買機率低）"},
+  34:{tier:4,short:"ル・サイク四谷",headline:"近飯店；維修、打氣備案"},
+  35:{tier:4,short:"トミサイクル",headline:"麴町，補胎與維修"},
+  36:{tier:4,short:"Cycle Spot 市谷",headline:"近飯店；一般車與維修備案"},
+  43:{tier:4,short:"Y’s 上野服飾",headline:"服飾專門店"},
+  44:{tier:4,short:"Y’s 新宿服飾",headline:"服飾專門店（新宿本館同棟）"},
+  45:{tier:4,short:"Y’s 新宿平把",headline:"平把車專門（新宿本館同棟）"}
+ }
+};
